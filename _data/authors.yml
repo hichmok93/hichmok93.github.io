@@ -1,0 +1,10 @@
+<author_id>:
+  name: <Hicham Mokhtari>
+  twitter: <himokhtari>
+  url: <homepage_of_author>
+
+---
+author: <author_id>                     # for single entry
+# or
+authors: [<author1_id>, <author2_id>]   # for multiple entries
+---
