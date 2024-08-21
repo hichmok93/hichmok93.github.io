@@ -37,4 +37,4 @@ EL Houb Trailer : -- Link --
 https://youtu.be/mLctWCQrm-s
 
 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/mLctWCQrm-s" title="EL HOUB | Shariff Nasr | trailer | 13 oktober in de bioscoop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="90" height="50" src="https://www.youtube.com/embed/mLctWCQrm-s" title="EL HOUB | Shariff Nasr | trailer | 13 oktober in de bioscoop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
