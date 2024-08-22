@@ -8,7 +8,6 @@ media_subpath: /assets/img/
 image:
   path: "el_houb.jpg"
   alt: "Film: El Houb (2022)"
-  lqip: /2.jpg/lqip-file # or base64 URI
 ---
 
 # Film recensie: El Houb 
