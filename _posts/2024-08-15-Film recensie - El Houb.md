@@ -8,6 +8,7 @@ media_subpath: /assets/img/
 image:
   path: "el_houb.jpg"
   alt: "Film: El Houb (2022)"
+  lqip: /2.jpg/lqip-file # or base64 URI
 ---
 
 # Film recensie: El Houb 
@@ -34,5 +35,6 @@ De makers hebben een verhaal op film vastgelegd die binnen de eigencultuur niet 
 
 Een uitermate ingrijpend verhaal dat de pijn van migratie, integratie, sociale klassen, vrouwenemancipatie, homoseksualiteit en uiteindelijk de liefde in zijn meest pure vorm bespreekbaar maakt en toont aan ieder publiek dapper genoeg het te aanschouwen voor wat (homo)seksualiteit in essentie is, een liefdesverhaal.  
 
-#### EL Houb Trailer:
-<iframe width="800" height="500" src="https://www.youtube.com/embed/mLctWCQrm-s" title="EL HOUB | Shariff Nasr | trailer | 13 oktober in de bioscoop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### Trailer: EL Houb (2022)
+
+{% include embed/youtube.html id='6PjmeqJasMs' %}
