@@ -8,6 +8,7 @@ media_subpath: /assets/img/
 image:
   path: "el_houb.jpg"
   alt: "Film: El Houb (2022)"
+  path: "2.jpg"
 ---
 
 # Film recensie: El Houb 
