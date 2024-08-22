@@ -8,7 +8,6 @@ media_subpath: /assets/img/
 image:
   path: "el_houb.jpg"
   alt: "Film: El Houb (2022)"
-  path: "2.jpg"
 ---
 
 # Film recensie: El Houb 
@@ -16,8 +15,6 @@ image:
 De speelfilm El Houb, het Arabische woord voor ''de Liefde’’ geregisseerd door de Nederlandse Libanese filmmaker Shariff Nasr. Weet met zijn debuutfilm een aangrijpend en authentiek verhaal te vertellen.  Met in de hoofdrol Fahd Larhzaoui (Karim).  Nasrdin Dchar speelt de Neef en Lubna Azalbal (Fatima) de rol van betrokken moeder die tegelijkertijd verscheurd wordt door de openbaring van haar zoon. Een film die doet denken aan het met een Oscar bekroond meesterwerk Moonlight voor beste Film (2016). Waar Moonlight het verhaal verteld van een afro-Amerikaanse jonge die net als Karim worstelt met zijn seksualiteit en plaats in de huidige wereld, speelt het verhaal van El Houb zich af binnen de grenzen van een Nederlands Marokkaans migranten gezin.   
 
 El Houb Vertelt het verhaal van het hoofdpersonage Karim (Fahd Larhzaoui) die openharig aan zijn ouders verteld dat hij homoseksuele gevoelens heeft en zich homoseksueel voelt. Hier erkenning voor vraagt binnen het gezin en indirect ook de gemeenschap. Gezien deze vaak moeilijk van elkaar te onderscheiden zijn binnen de Arabische cultuur moeilijk een onderscheid kan maken tussen het gezin alleen en de gemeenschap. Het vloeit in elkaar over. Wat je doet en bent binnen het gezin, heeft effect op de familie. en daardoor ook op de gemeenschap en de andere familie's binnen de gemeenschap.  Het wordt vaak gezien als een entiteit.  
-
-![Desktop View](2.jpg){: width="400" height="200" }{: .left }{: .shadow }
 
 De Film geeft een ijzersterke weergave van hoe de Marokkaans islamitische gemeenschap het onderwerp (homo)seksualiteit benadert. Een thema dat wereldwijd nog altijd in de taboesferen verkeerd. Echter binnen islamitische kringen helaas nog infantieler in zijn ontwikkeling staat dan bij de westerse. De gemeenschap benadert het thema (homo)seksualiteit door de kwestie in zijn geheel onder het tapijt te vegen en juist niet te benaderen of überhaupt te bespreken. Dat is iets wat de filmmaker wil doorbreken en laat op een integere en realistische wijzen zien hoe er met pijnlijke familiesituatie wordt omgesprongen binnen de Marokkaanse cultuur en hoe dit vervolgens effect heeft op niet alleen het gezin maar ook de gemeenschap.  
 
