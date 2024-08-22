@@ -3,7 +3,7 @@ title: Film recensie - El Houb
 date: 2022-11-22 00:34:00 +0800
 categories: [Film, fotografie, cultuur]
 tags: [literatuur, film]     # TAG names should always be lowercase
-description: Een uitermate ingrijpend verhaal dat de pijn van migratie, integratie, sociale klassen, vrouwenemancipatie, homoseksualiteit en uiteindelijk de liefde in zijn meest pure vorm bespreekbaar maakt en toont aan ieder publiek dapper genoeg het te aanschouwen voor wat (homo)seksualiteit in essentie is, een liefdesverhaal.
+description: De Film geeft een ijzersterke weergave van hoe de Marokkaans islamitische gemeenschap het onderwerp (homo)seksualiteit benadert.
 media_subpath: /assets/img/
 image:
   path: "el_houb.jpg"
