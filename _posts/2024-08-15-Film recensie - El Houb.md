@@ -3,19 +3,15 @@ title: Film recensie - El Houb
 date: 2022-11-22 00:34:00 +0800
 categories: [Film, fotografie, cultuur]
 tags: [literatuur, film]     # TAG names should always be lowercase
-description: _Een uitermate ingrijpend verhaal dat de pijn van migratie, integratie, sociale klassen, vrouwenemancipatie, homoseksualiteit en uiteindelijk de liefde in zijn meest pure vorm bespreekbaar maakt en toont aan ieder publiek dapper genoeg het te aanschouwen voor wat (homo)seksualiteit in essentie is, een liefdesverhaal_
-media_subpath: 
-image:
-  path: assets\img\el houb.jpg
-  alt: Film: El Houb (2022)
+description: Een uitermate ingrijpend verhaal dat de pijn van migratie, integratie, sociale klassen, vrouwenemancipatie, homoseksualiteit en uiteindelijk de liefde in zijn meest pure vorm bespreekbaar maakt en toont aan ieder publiek dapper genoeg het te aanschouwen voor wat (homo)seksualiteit in essentie is, een liefdesverhaal.
+media_subpath: assets/img/el houb.jpg
 ---
 
 # Film recensie: El Houb 
 
 De speelfilm El Houb, het Arabische woord voor ''de Liefde’’ geregisseerd door de Nederlandse Libanese filmmaker Shariff Nasr. Weet met zijn debuutfilm een aangrijpend en authentiek verhaal te vertellen.  Met in de hoofdrol Fahd Larhzaoui (Karim).  Nasrdin Dchar speelt de Neef en Lubna Azalbal (Fatima) de rol van betrokken moeder die tegelijkertijd verscheurd wordt door de openbaring van haar zoon. Een film die doet denken aan het met een Oscar bekroond meesterwerk Moonlight voor beste Film (2016). Waar Moonlight het verhaal verteld van een afro-Amerikaanse jonge die net als Karim worstelt met zijn seksualiteit en plaats in de huidige wereld, speelt het verhaal van El Houb zich af binnen de grenzen van een Nederlands Marokkaans migranten gezin.   
 
-![Desktop View](/assets/img/el houb.jpg){: width="500" height="300" }{: .shadow }{: .right }
-
+![img-description](assets/img/el houb.jpg){: width="400" height="200" }{: .left} 
 
 El Houb Vertelt het verhaal van het hoofdpersonage Karim (Fahd Larhzaoui) die openharig aan zijn ouders verteld dat hij homoseksuele gevoelens heeft en zich homoseksueel voelt. Hier erkenning voor vraagt binnen het gezin en indirect ook de gemeenschap. Gezien deze vaak moeilijk van elkaar te onderscheiden zijn binnen de Arabische cultuur moeilijk een onderscheid kan maken tussen het gezin alleen en de gemeenschap. Het vloeit in elkaar over. Wat je doet en bent binnen het gezin, heeft effect op de familie. en daardoor ook op de gemeenschap en de andere familie's binnen de gemeenschap.  Het wordt vaak gezien als een entiteit.  
 
@@ -33,7 +29,7 @@ Door deze gedeelde inzicht veranderd El Houb van een emotioneel zwaarmoedige naa
 
 De makers hebben een verhaal op film vastgelegd die binnen de eigencultuur niet vaak in de openheid wordt besproken. En voor de verandering verteld vanuit het perspectief van de mensen om wie het gaat in plaats van door de ogen van de mensen die het ogenschijnlijk alleen van buitenaf aanschouwen en meekrijgen via de actualiteiten. En vaak het onderwerp vanuit een ander blikveld ervaren. De regisseur heeft hiervan de noodzaak gezien en het mogelijk gemaakt het ditmaal anders te doen. Hij heeft dit weten overbrengen in een verhaal dat tot zijn rechtkomt vanuit het perspectief van de groep. Het taboe rond het onderwerp, zo heeft de regisseur correct geanalyseerd ligt geheel binnen de eigen gemeenschap.   
 
-Een uitermate ingrijpend verhaal dat de pijn van migratie, integratie, sociale klassen, vrouwenemancipatie, homoseksualiteit en uiteindelijk de liefde in zijn meest pure vorm bespreekbaar maakt en toont aan ieder publiek dapper genoeg het te aanschouwen voor wat (homo)seksualiteit in essentie is, een liefdesverhaal.    
+Een uitermate ingrijpend verhaal dat de pijn van migratie, integratie, sociale klassen, vrouwenemancipatie, homoseksualiteit en uiteindelijk de liefde in zijn meest pure vorm bespreekbaar maakt en toont aan ieder publiek dapper genoeg het te aanschouwen voor wat (homo)seksualiteit in essentie is, een liefdesverhaal.  
 
 #### EL Houb Trailer:
 <iframe width="800" height="500" src="https://www.youtube.com/embed/mLctWCQrm-s" title="EL HOUB | Shariff Nasr | trailer | 13 oktober in de bioscoop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
