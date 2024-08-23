@@ -6,9 +6,9 @@ tags: [food,literatuur, travel-tips]     # TAG names should always be lowercase
 description: Politiek gezien is het Midden-Oosten vaak het toneel van conflicten, deels veroorzaakt door historische koloniale inmenging, maar ook door hedendaagse geopolitieke spanningen.
 toc: false
 media_subpath: /assets/img/
-image:
-  path: "14.jpg"
-  alt: "Wadi-Mousa - Petra"
+#3#mage:
+ # path: "14.jpg"
+ # alt: "Wadi-Mousa - Petra"
 ---
 ---
  
