@@ -6,7 +6,7 @@ tags: [mensen,psychologie]     # TAG names should always be lowercase
 description: Etnisch profileren verwijst naar de praktijk waarbij iemands ras of etniciteit wordt gebruikt als de belangrijkste reden om hem of haar van criminele activiteiten te verdenken. Dit type profilering wordt als discriminerend beschouwd en wordt over het algemeen gezien als een schending van burgerrechten.
 media_subpath: /assets/img/
 image:
-  path: "16.jpg"
+  path: "d.jpg"
   alt: ""
 ---
  

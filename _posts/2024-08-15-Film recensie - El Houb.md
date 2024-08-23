@@ -16,7 +16,7 @@ De speelfilm El Houb, het Arabische woord voor ''de Liefde’’ geregisseerd do
 
 El Houb Vertelt het verhaal van het hoofdpersonage Karim (Fahd Larhzaoui) die openharig aan zijn ouders verteld dat hij homoseksuele gevoelens heeft. Hier erkenning voor vraagt binnen het gezin en indirect ook de gemeenschap. 
 
-![Desktop View](2.jpg){: w="400" h="300" }{: .left }
+![Desktop View](a.jpg){: w="400" h="300" }{: .left }
 
 De Film geeft een ijzersterke weergave van hoe de Marokkaans islamitische gemeenschap het onderwerp (homo)seksualiteit benadert. De gemeenschap benadert het thema (homo)seksualiteit door de kwestie in zijn geheel onder het tapijt te vegen en juist niet te benaderen of überhaupt te bespreken. Dat is iets wat de filmmaker wil doorbreken en laat op een integere en realistische wijzen zien hoe er met pijnlijke familiesituatie wordt omgesprongen binnen de Marokkaanse cultuur. Hoe dit vervolgens effect heeft op niet alleen het gezin maar ook de gemeenschap.  
 
