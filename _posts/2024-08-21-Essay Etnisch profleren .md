@@ -10,7 +10,7 @@ path: "16.jpg"
  alt: "Praag"
 ---
  
-# Essay Etnisch profleren 
+# Etnisch profleren 
 
 #### Inleiding:
 Bij aankomst in tel Aviv -Jaffo Ik ben er twee uur vastgehouden en ondervraagt. Aan alles kreeg ik het gevoel een crimineel te zijn terwijl ik niks heb misdaan. Wie is je vader? Ik antwoord Omar, wie is de vader van je vader? Ik antwoord Max. Dit kan niet waar zijn krijg ik het gevoel aan haar houding van de douane. Loop maar mee zegt ze. Ga maar hier zitten wijzend op een plastic tuinstoel die in de hal staat en vul dit brief je in. Ze overhandigt mij een briefje met dezelfde vragen en een verzoek tot mijn contact gegevens.  Dit alles vindt plaats naast een lange rij met andere reizigers die net zoals ik zojuist zijn aankomen op de luchthaven en in een lange rij staan om douane voorbij  te mogen lopen. Iedereen kan heel makkelijk zien dat ik eruit gepikt word en naast mij zit een Italiaans vrouw die ook haar beklaag toont over de racistische aard van haar controle zo geeft ze zelf aan. Het is niet haar eerste keer dan ze na een terug komt in Israël staande wordt gehouden weet ze mij te vertellen.   
