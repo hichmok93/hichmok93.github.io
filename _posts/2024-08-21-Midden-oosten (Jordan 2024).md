@@ -7,7 +7,7 @@ description: Politiek gezien is het Midden-Oosten vaak het toneel van conflicten
 toc: false
 media_subpath: /assets/img/
 image:
-  path: "14.jpg"
+  path: "14.JPG"
   alt: "Wadi-Mousa - Petra"
 ---
 ---
