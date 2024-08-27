@@ -5,25 +5,9 @@
   .bundle
 {%- endif -%}
 
-/* append your custom style below */ /* Sluit je commentaar correct af */
-
-/* Standaard header en tekst styling */
-header .post-desc, #search-results a, h5, h4, h3, h2, h1 {
-  color: var(--heading-color);
-  font-weight: 400;
-  font-family: Lato, "Microsoft Yahei", sans-serif;
-}
 
 /* Hover effecten voor links in categorieën, tags, en andere delen */
-#page-category a:hover, 
-#page-tag a:hover, 
-.post-tags .post-tag:hover, 
-.post-tail-wrapper .license-wrapper > a:hover, 
-#search-results a:hover, 
-#topbar #breadcrumb a:hover, 
-.content a:not(.img-link):hover, 
-.post-meta a:not([class]):hover, 
-#access-lastmod a:hover, 
+
 footer a:hover {
   color: #7e217e !important;
   border-bottom: 1px solid #7e217e;
