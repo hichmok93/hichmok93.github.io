@@ -1,10 +1,10 @@
 ---
 ---
-@import 'main'; /* Sluit de aanhalingstekens correct af */
+
+@import 'main
 {%- if jekyll.environment == 'production' -%}
   .bundle
 {%- endif -%}
+';
 
-
-/* Hover effecten voor links in categorieën, tags, en andere delen */
-
+/* append your custom style below */
