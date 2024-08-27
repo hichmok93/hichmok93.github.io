@@ -4,6 +4,7 @@ date: 2022-11-22 00:34:00 +0800
 categories: [cultuur, Film]
 tags: [politiek, Film, Art-house]    # TAG names should always be lowercase
 description: De Film geeft een ijzersterke weergave van hoe de Marokkaans islamitische gemeenschap het onderwerp (homo)seksualiteit benadert.
+pin: true
 media_subpath: /assets/img/
 image:
   path: "el_houb.jpg"
