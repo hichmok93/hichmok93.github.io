@@ -8,7 +8,7 @@ media_subpath: /assets/img/
 image:
   path: "https://radar.nl/wp-content/uploads/2021/11/Etnisch-profileren-Ez-Silva-WEB-scaled.jpg"
   
-  alt: "Parool.nl/etnisch-profileren-ondermijnt-de-samenleving"
+  alt: "Afbeelding: Parool.nl/etnisch-profileren-ondermijnt-de-samenleving"
 ---
  
 # Etnisch profileren
@@ -24,7 +24,7 @@ Etnisch profileren verwijst naar de praktijk waarbij iemands ras of etniciteit w
 ## Hoofdvraag
 Waarom wordt er op luchthavens aan etnisch profileren gedaan door de Israëlische marechaussee? Wat zijn de ervaringen van anderen met vergelijkbare situaties bij aankomst op de luchthaven (bijvoorbeeld Palestijnen die in Israël wonen met een Israëlisch paspoort)? Wat zegt de Israëlische overheid over etnisch profileren op luchthaven Ben-Gurion?
 
-![Desktop View](https://image.parool.nl/150918358/width/2480/etnisch-profileren-ondermijnt-de-samenleving){: w="300" h="200" }{: .right }
+![Desktop View](https://image.parool.nl/150918358/width/2480/etnisch-profileren-ondermijnt-de-samenleving){: w="300" h="200" }{: .right } {: .shadow }  alt: afbeelding: 
 
 De vrouw naast mij heeft, net als ik, donkere ogen en donker haar en een Westers, maar ambigu uiterlijk. Ze woont en werkt in Israël en reist geregeld naar het buitenland. Toch wordt ze steeds weer apart gehouden en worden haar gegevens gecontroleerd. Uiteindelijk mag ze met haar roze papiertje en paspoort de luchthaven verlaten. Dat zal mij ook gebeuren, maar pas na een verdere ondervraging. In de tussentijd wacht ik op de witte tuinstoel in de aankomsthal, tegenover de rij passagiers uit mijn vlucht. Met enkele wissel ik blikken.
 
