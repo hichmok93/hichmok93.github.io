@@ -1,7 +1,7 @@
 ---
 title: Opinie - Etnisch profileren. 
 date: 2023-01-20 18:34:00 +0800
-categories: [peroonlijke ontwikkeling, etnisch profileren]
+categories: [filofosie, Ethiek]
 tags: [mens, psychologie, politiek, opinie]     # TAG names should always be lowercase
 description: Etnisch profileren verwijst naar de praktijk waarbij iemands ras of etniciteit wordt gebruikt als de belangrijkste reden om hem of haar van criminele activiteiten te verdenken. Dit type profilering wordt als discriminerend beschouwd en wordt over het algemeen gezien als een schending van burgerrechten.
 media_subpath: /assets/img/
@@ -18,7 +18,8 @@ Mijn aankomst op luchthaven Ben-Gurion was een interessante kennismaking met het
 
 Iedereen kan zien dat ik eruit gepikt ben. Naast mij zit een Italiaanse vrouw die zich ook beklaagt over de ogenschijnlijk racistische aard van haar controle. Ze vertelt me dat dit niet de eerste keer is dat ze na een terugkomst in Israël wordt staande gehouden.
 
-## Definitie
+#### Definitie:
+
 "_Etnisch profileren verwijst naar de praktijk waarbij iemands ras of etniciteit wordt gebruikt als de belangrijkste reden om hem of haar van criminele activiteiten te verdenken. Dit type profilering wordt als discriminerend beschouwd en wordt over het algemeen gezien als een schending van burgerrechten._"
 
 
@@ -35,8 +36,9 @@ Het blijft natuurlijk een subjectieve ervaring en hard maken is lastig, maar op 
 Helaas is deze verdeeldheid alleen maar erger geworden sinds mijn ervaring in januari 2023 tijdens mijn bezoek aan Israel, de spanningen waren voelbaar, maar er was nog geen aanslag zoals die op 7 oktober 2023. Het verdriet, de achterdocht en de pijn van alle mensen in de regio zijn sindsdien alleen maar verergerd. Dit doet me veel verdriet, zowel voor de Israëlische burgers als voor de Palestijnse bevolking, met wie ze het land zouden moeten delen.
 
 
-## Hoofdvraag 
-(notitie's)
-Waarom wordt er op luchthavens aan etnisch profileren gedaan door de Israëlische marechaussee? Wat zijn de ervaringen van anderen met vergelijkbare situaties bij aankomst op de luchthaven (bijvoorbeeld Palestijnen die in Israël wonen met een Israëlisch paspoort)? Wat zegt de Israëlische overheid over etnisch profileren op luchthaven Ben-Gurion?
+#### Notitie: 
+- Waarom wordt er op luchthavens aan etnisch profileren gedaan door de Israëlische marechaussee?
+- Wat zijn de ervaringen van anderen met vergelijkbare situaties bij aankomst op de luchthaven (bijvoorbeeld Palestijnen die in Israël wonen met een Israëlisch paspoort)? 
+- Wat zegt de Israëlische overheid over etnisch profileren op luchthaven Ben-Gurion?
 
 
