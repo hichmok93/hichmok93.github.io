@@ -18,7 +18,7 @@ El Houb vertelt het verhaal van het hoofdpersonage Karim (Fahd Larhzaoui), die o
 
 De film geeft een ijzersterke weergave van hoe de Marokkaans-islamitische gemeenschap het onderwerp (homo)seksualiteit benadert. De gemeenschap veegt het thema (homo)seksualiteit vaak onder het tapijt, zonder het aan te pakken of er überhaupt over te spreken. Dit is iets wat de filmmaker wil doorbreken. Hij laat op een integere en realistische manier zien hoe er met pijnlijke familiesituaties wordt omgegaan binnen de Marokkaanse cultuur en hoe dit vervolgens niet alleen het gezin, maar ook de gemeenschap beïnvloedt.
 
-![Desktop View](c.jpg){: w="400" h="200" }{: .right } {: .shadow }
+![Desktop View](a.jpg){: w="400" h="200" }{: .right } {: .shadow }
 
 Tegelijkertijd weet de filmmaker ruimte te creëren om ongemakkelijke momenten met intelligente oneliners en humor bespreekbaar te maken. Met emotionele flashbacks die de gezinsdynamiek aan het licht brengen, creëert de maker niet alleen voor de personages, maar ook voor de toeschouwer een ruimte om de taboes herkenbaar en tastbaar in beeld weer te geven, waardoor ze beter bespreekbaar worden.
 
