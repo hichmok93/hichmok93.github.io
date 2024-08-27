@@ -1,13 +1,12 @@
 ---
 title: Opinie - Etnisch profileren. 
 date: 2023-01-20 18:34:00 +0800
-categories: [peroonlijke ontwikkeling, etnisch profileren]
+categories: [travel, fotografie]
 tags: [mens, psychologie, politiek, opinie]     # TAG names should always be lowercase
 description: Etnisch profileren verwijst naar de praktijk waarbij iemands ras of etniciteit wordt gebruikt als de belangrijkste reden om hem of haar van criminele activiteiten te verdenken. Dit type profilering wordt als discriminerend beschouwd en wordt over het algemeen gezien als een schending van burgerrechten.
 media_subpath: /assets/img/
 image:
   path: "https://radar.nl/wp-content/uploads/2021/11/Etnisch-profileren-Ez-Silva-WEB-scaled.jpg"
-  
   alt: "Afbeelding: Parool.nl/etnisch-profileren-ondermijnt-de-samenleving"
 ---
  
@@ -21,9 +20,6 @@ Iedereen kan zien dat ik eruit gepikt ben. Naast mij zit een Italiaanse vrouw di
 ## Definitie
 "_Etnisch profileren verwijst naar de praktijk waarbij iemands ras of etniciteit wordt gebruikt als de belangrijkste reden om hem of haar van criminele activiteiten te verdenken. Dit type profilering wordt als discriminerend beschouwd en wordt over het algemeen gezien als een schending van burgerrechten._"
 
-## Hoofdvraag
-Waarom wordt er op luchthavens aan etnisch profileren gedaan door de Israëlische marechaussee? Wat zijn de ervaringen van anderen met vergelijkbare situaties bij aankomst op de luchthaven (bijvoorbeeld Palestijnen die in Israël wonen met een Israëlisch paspoort)? Wat zegt de Israëlische overheid over etnisch profileren op luchthaven Ben-Gurion?
-
 ![Desktop View](https://image.parool.nl/150918358/width/2480/etnisch-profileren-ondermijnt-de-samenleving){: w="300" h="200" }{: .right }{: .shadow } 
 
 De vrouw naast mij heeft, net als ik, donkere ogen en donker haar en een Westers, maar ambigu uiterlijk. Ze woont en werkt in Israël en reist geregeld naar het buitenland. Toch wordt ze steeds weer apart gehouden en worden haar gegevens gecontroleerd. Uiteindelijk mag ze met haar roze papiertje en paspoort de luchthaven verlaten. Dat zal mij ook gebeuren, maar pas na een verdere ondervraging. In de tussentijd wacht ik op de witte tuinstoel in de aankomsthal, tegenover de rij passagiers uit mijn vlucht. Met enkele wissel ik blikken.
@@ -34,4 +30,9 @@ Er volgen vragen zoals wie ik ben, wat ik hier kom doen, welke boeken ik heb gel
 
 ## Conclusie
 Dat ik zo behandeld word omdat ik er anders uitzie dan de gemiddelde bezoeker van het land, is moeilijk te bevatten. Ik heb vaker gereisd, maar ben nog nooit zo behandeld. Dit gedrag sijpelt door in de maatschappij, waardoor mensen bang worden en een groep mensen op basis van uiterlijke kenmerken wordt gedemoniseerd. Het zorgt voor beeldvorming dat de ander, met een ander uiterlijk, een potentieel gevaar vormt. Helaas is deze verdeeldheid alleen maar erger geworden sinds mijn reis. Op het moment dat ik er was, waren er spanningen, maar nog geen aanslag zoals die van 7 oktober 2023. Het verdriet, de achterdocht en de pijn van alle mensen in de regio zijn sindsdien alleen maar verergerd. Dit doet me veel verdriet, zowel voor de Israëlische burgers als voor de Palestijnse bevolking, met wie ze het land zouden moeten delen
+
+
+## Hoofdvraag
+Waarom wordt er op luchthavens aan etnisch profileren gedaan door de Israëlische marechaussee? Wat zijn de ervaringen van anderen met vergelijkbare situaties bij aankomst op de luchthaven (bijvoorbeeld Palestijnen die in Israël wonen met een Israëlisch paspoort)? Wat zegt de Israëlische overheid over etnisch profileren op luchthaven Ben-Gurion?
+
 
