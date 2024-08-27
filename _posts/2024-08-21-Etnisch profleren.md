@@ -4,8 +4,10 @@ date: 2023-01-20 18:34:00 +0800
 categories: [peroonlijke ontwikkeling, etnisch profileren]
 tags: [mens, psychologie, politiek, opinie]     # TAG names should always be lowercase
 description: Etnisch profileren verwijst naar de praktijk waarbij iemands ras of etniciteit wordt gebruikt als de belangrijkste reden om hem of haar van criminele activiteiten te verdenken. Dit type profilering wordt als discriminerend beschouwd en wordt over het algemeen gezien als een schending van burgerrechten.
+pin: true
 media_subpath: /assets/img/
 image:
+  lqip: https://radar.nl/wp-content/uploads/2021/11/Etnisch-profileren-Ez-Silva-WEB-scaled.jpg
   path: "https://radar.nl/wp-content/uploads/2021/11/Etnisch-profileren-Ez-Silva-WEB-scaled.jpg"
   alt: "Afbeelding: Parool.nl/etnisch-profileren-ondermijnt-de-samenleving"
 ---
@@ -20,7 +22,7 @@ Iedereen kan zien dat ik eruit gepikt ben. Naast mij zit een Italiaanse vrouw di
 ## Definitie
 "_Etnisch profileren verwijst naar de praktijk waarbij iemands ras of etniciteit wordt gebruikt als de belangrijkste reden om hem of haar van criminele activiteiten te verdenken. Dit type profilering wordt als discriminerend beschouwd en wordt over het algemeen gezien als een schending van burgerrechten._"
 
-![Desktop View](https://image.parool.nl/150918358/width/2480/etnisch-profileren-ondermijnt-de-samenleving){: w="300" h="200" }{: .right }{: .shadow } 
+![Desktop View](https://image.parool.nl/150918358/width/2480/etnisch-profileren-ondermijnt-de-samenleving){: lqip="/path/to/lqip-file" }{: w="300" h="200" }{: .right }{: .shadow } 
 
 De vrouw naast mij heeft, net als ik, donkere ogen en donker haar en een Westers, maar ambigu uiterlijk. Ze woont en werkt in Israël en reist geregeld naar het buitenland. Toch wordt ze steeds weer apart gehouden en worden haar gegevens gecontroleerd. Uiteindelijk mag ze met haar roze papiertje en paspoort de luchthaven verlaten. Dat zal mij ook gebeuren, maar pas na een verdere ondervraging. In de tussentijd wacht ik op de witte tuinstoel in de aankomsthal, tegenover de rij passagiers uit mijn vlucht. Met enkele wissel ik blikken.
 
