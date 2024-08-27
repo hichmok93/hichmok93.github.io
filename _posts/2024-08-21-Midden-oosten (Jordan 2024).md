@@ -7,7 +7,7 @@ description: De woestijn van Jordanië is adembenemend mooi. De hoogbouw van Abu
 toc: false
 media_subpath: /assets/img/
 image:
-  path: "e.jpg"
+  path: "24.jpg"
   alt: "Wadi-Mousa - Petra"
 ---
 ---
