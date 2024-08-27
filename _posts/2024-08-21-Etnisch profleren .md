@@ -1,7 +1,7 @@
 ---
 title: Opinie - Etnisch profileren. 
 date: 2023-01-20 18:34:00 +0800
-categories: [travel, fotografie]
+categories: [peroonlijke ontwikkeling, etnisch profileren]
 tags: [mens, psychologie, politiek, opinie]     # TAG names should always be lowercase
 description: Etnisch profileren verwijst naar de praktijk waarbij iemands ras of etniciteit wordt gebruikt als de belangrijkste reden om hem of haar van criminele activiteiten te verdenken. Dit type profilering wordt als discriminerend beschouwd en wordt over het algemeen gezien als een schending van burgerrechten.
 media_subpath: /assets/img/
@@ -26,11 +26,9 @@ De vrouw naast mij heeft, net als ik, donkere ogen en donker haar en een Westers
 
 Ik voel schaamte dat ik hier zit, maar laat het niet merken. Ik hou mijn hoofd recht, zit breed op de witte tuinstoel en lees mijn boek terwijl ik wacht. Het etnisch profileren doet me denken aan hoe de Nederlandse marechaussee lange tijd heeft gewerkt. Amnesty International heeft hier ooit een rapport over geschreven. Na enige tijd word ik naar een kamer geroepen voor een ondervraging.
 
-Er volgen vragen zoals wie ik ben, wat ik hier kom doen, welke boeken ik heb gelezen, of ik ooit in aanraking ben geweest met de politie, hoe lang ik hier blijf, en of ik de gegevens van mijn accommodatie en mijn retourticket kan laten zien. Ze vragen wat ik van het land weet, of ik er met iemand over heb gesproken, of ik iemand ken die het land kent, en welke plaatsen ik wil bezoeken. Ik begrijp dat deze vragen soms nodig zijn vanwege de politieke situatie, maar de manier waarop het gebeurt en het etnisch profileren gaan voor mij te ver.
+Er volgen vragen zoals wie ik ben, wat ik hier kom doen, welke boeken ik heb gelezen, of ik ooit in aanraking ben geweest met de politie, hoe lang ik hier blijf, en of ik de gegevens van mijn accommodatie en mijn retourticket kan laten zien. Ze vragen wat ik van het land weet, of ik er met iemand over heb gesproken, of ik iemand ken die het land kent, en welke plaatsen ik wil bezoeken. Ik begrijp dat deze vragen soms nodig zijn vanwege de politieke situatie, maar de manier waarop het gebeurt en het etnisch profileren vindt ik een schending en doet ook pijn. 
 
-## Conclusie
-Dat ik zo behandeld word omdat ik er anders uitzie dan de gemiddelde bezoeker van het land, is moeilijk te bevatten. Ik heb vaker gereisd, maar ben nog nooit zo behandeld. Dit gedrag sijpelt door in de maatschappij, waardoor mensen bang worden en een groep mensen op basis van uiterlijke kenmerken wordt gedemoniseerd. Het zorgt voor beeldvorming dat de ander, met een ander uiterlijk, een potentieel gevaar vormt. Helaas is deze verdeeldheid alleen maar erger geworden sinds mijn reis. Op het moment dat ik er was, waren er spanningen, maar nog geen aanslag zoals die van 7 oktober 2023. Het verdriet, de achterdocht en de pijn van alle mensen in de regio zijn sindsdien alleen maar verergerd. Dit doet me veel verdriet, zowel voor de Israëlische burgers als voor de Palestijnse bevolking, met wie ze het land zouden moeten delen
-
+Het blijft natuurlijk een subjectieve ervaring en hard maken is lastig, maar op het moment dat je dit op veel momenten mee maakt en met jou andere mensen, dit alles maakt het geen prettige ervarinng, is moeilijk te bevatten. Dit gedrag sijpelt door in de maatschappij, waardoor mensen bang worden en een groep mensen op basis van uiterlijke kenmerken wordt gedemoniseerd. Het zorgt voor beeldvorming dat de ander, met een ander uiterlijk, een potentieel gevaar vormt. Helaas is deze verdeeldheid alleen maar erger geworden sinds mijn reis. Op het moment dat ik er was, waren er spanningen, maar nog geen aanslag zoals die van 7 oktober 2023. Het verdriet, de achterdocht en de pijn van alle mensen in de regio zijn sindsdien alleen maar verergerd. Dit doet me veel verdriet, zowel voor de Israëlische burgers als voor de Palestijnse bevolking, met wie ze het land zouden moeten delen. Ik hoop dat dit niet vaker voorkomt maar ik ben bang dat het gezien de huidige situatie alleen maar erger op is geworden. 
 
 ## Hoofdvraag
 Waarom wordt er op luchthavens aan etnisch profileren gedaan door de Israëlische marechaussee? Wat zijn de ervaringen van anderen met vergelijkbare situaties bij aankomst op de luchthaven (bijvoorbeeld Palestijnen die in Israël wonen met een Israëlisch paspoort)? Wat zegt de Israëlische overheid over etnisch profileren op luchthaven Ben-Gurion?
