@@ -19,9 +19,10 @@ image:
 
 De Arabische cultuur is er een die ik tijdens mijn reis door Midden-Azië heb herontdekt. Gedurende mijn reis door verschillende landen in het Midden-Oosten heeft dit me in staat gesteld om mijn eigen culturele identiteit en achtergrond te heroverwegen en beter te begrijpen.
 
-![Desktop View](d.jpg){: w="400" h="200" }{: .left }
+![Desktop View](244.jpg){: w="400" h="300" }{: .left }
 
-Ondanks dat een deel van mijn familie zijn oorsprong vindt in een Maghreb-land, namelijk Marokko, maakt de cultuur van de Amazigh (Berber) bevolking ook deel uit van mijn cultureel-historische achtergrond en identiteit. Deze nomadische stammen hebben zich ooit gevestigd in wat men nu de Maghreb-landen noemt, maar hun oorsprong ligt in landen gevestigd in het Midden-Oosten.
+Ondanks dat een deel van mijn familie zijn oorsprong vindt in een Maghreb-land, namelijk Marokko, maakt de cultuur van de Amazigh (Berber) bevolking ook deel uit van mijn cultureel-historische achtergrond en identiteit. 
+Deze nomadische stammen hebben zich ooit gevestigd in wat men nu de Maghreb-landen noemt, maar hun oorsprong ligt in landen gevestigd in het Midden-Oosten.
 
 
 
