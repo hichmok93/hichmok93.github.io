@@ -19,7 +19,7 @@ De Arabisch cultuur is een die ik gedruredne mijn reis door Midden Azië heb her
 
 Ondanks dat een deel van mijn familie uit een magreb land zijn oorsprong vindt. Marokko dan wel te verstaan. Is dat cultuur van de Amazig (berber) bevolking ook onderdeel van mijn cultuurhistorische en identiteit,deze nomadische stammen hebben zich ooit gevestigd in wat men nu de magreb landen noemt, maar hun oostrong vindt in landen gevestigd in het Midden Oosten. 
 
-(Concept versie) ...... Wordt aan geschreven....... 
+(Concept versie) ......................
 
 
 
