@@ -1,0 +1,121 @@
+---
+---
+@import 'main'; /* Sluit de aanhalingstekens correct af */
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+
+/* append your custom style below */ /* Sluit je commentaar correct af */
+
+/* Standaard header en tekst styling */
+header .post-desc, #search-results a, h5, h4, h3, h2, h1 {
+  color: var(--heading-color);
+  font-weight: 400;
+  font-family: Lato, "Microsoft Yahei", sans-serif;
+}
+
+/* Afstand tussen de koppen in de hoofdsectie */
+main h5, main h4, main h3, main h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1.25rem;
+}
+
+/* Focus outline verwijderen bij koppen in de hoofdsectie */
+main h5:focus, main h4:focus, main h3:focus, main h2:focus {
+  outline: none;
+}
+
+/* Anker styling bij koppen */
+h5 .anchor, h4 .anchor, h3 .anchor, h2 .anchor {
+  font-size: 80%;
+}
+
+/* Hover effecten voor ankers bij koppen */
+@media (hover: hover) {
+  h5 .anchor, h4 .anchor, h3 .anchor, h2 .anchor {
+      visibility: hidden;
+      opacity: 0;
+      transition: opacity 0.25s ease-in, visibility 0s ease-in 0.25s;
+  }
+
+  h5:hover .anchor, h4:hover .anchor, h3:hover .anchor, h2:hover .anchor {
+      visibility: visible;
+      opacity: 1;
+      transition: opacity 0.25s ease-in, visibility 0s ease-in 0s;
+  }
+}
+
+/* Hover effecten voor tags */
+.post-tags .post-tag:hover, .tag:hover {
+  background: var(--tag-hover);
+  transition: background 0.35s ease-in-out;
+}
+
+/* Tabel styling */
+.table-wrapper > table tbody tr td, 
+.table-wrapper > table thead th {
+  padding: 0.4rem 1rem;
+  font-size: 95%;
+  white-space: nowrap;
+}
+
+/* Hover effecten voor links in categorieën, tags, en andere delen */
+#page-category a:hover, 
+#page-tag a:hover, 
+.post-tags .post-tag:hover, 
+.post-tail-wrapper .license-wrapper > a:hover, 
+#search-results a:hover, 
+#topbar #breadcrumb a:hover, 
+.content a:not(.img-link):hover, 
+.post-meta a:not([class]):hover, 
+#access-lastmod a:hover, 
+footer a:hover {
+  color: #7e217e !important;
+  border-bottom: 1px solid #7e217e;
+  text-decoration: none;
+}
+
+/* Link kleur standaard */
+#search-results a, #search-hints .post-tag, a {
+  color: var(--link-color);
+}
+
+/* Links zonder hover-effecten */
+.post-tail-wrapper .post-meta a:not(:hover), 
+.content a:not(.img-link) {
+  border-bottom: 1px solid var(--link-underline-color);
+}
+
+/* Sidebar styling en overgangseffecten */
+#sidebar .sidebar-bottom a, 
+#sidebar .site-title a, 
+#sidebar .profile-wrapper {
+  transition: all 0.3s ease-in-out;
+}
+
+/* Gebruikersselectie uitschakelen voor bepaalde elementen */
+#sidebar .sidebar-bottom .icon-border, 
+.content a.popup, 
+i.far, i.fas, 
+.code-header {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+/* Verwijderen van onderlijning bij bepaalde elementen */
+#page-category ul > li > a, 
+#page-tag ul > li > a, 
+.post-tags .post-tag:hover, 
+#search-results a, 
+main .categories a:not(:hover), 
+main #tags a:not(:hover), 
+main #archives a:not(:hover), 
+#access-lastmod a {
+  border-bottom: none;
+}
+
+
+/* De rest van je CSS blijft hetzelfde */
+
