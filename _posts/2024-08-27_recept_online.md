@@ -1,15 +1,14 @@
 ---
 title: Bao Buns recept
-date: 2024-08-27 00:34:00 +0800
+date: 2024-08-27 11:34:00 +0800
 categories: [food, fotografie]
 tags: [Azië]     # TAG names should always be lowercase
-description: recept gevonden op reddit #foodporn 
+description: recept gevonden op reddit foodporn 
 toc: false
 media_subpath:
 image:
   path: "https://www.kitchensanctuary.com/wp-content/uploads/2019/07/Gua-Bao-Buns-Pork-Belly-square-FS-7271.jpg"
   alt: "Bao buns"
-  
 ---
 
 
