@@ -5,7 +5,7 @@ categories: [food, fotografie]
 tags: [Azië]     # TAG names should always be lowercase
 description: recept gevonden op reddit foodporn 
 toc: false
-media_subpath:
+media_subpath: /assets/img/
 image:
     path: "https://www.kitchensanctuary.com/wp-content/uploads/2019/07/Gua-Bao-Buns-Pork-Belly-square-FS-7271.jpg"
     alt: "Bao buns"
