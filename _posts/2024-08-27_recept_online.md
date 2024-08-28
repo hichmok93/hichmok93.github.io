@@ -7,7 +7,7 @@ description: recept gevonden op reddit #foodporn
 toc: false
 media_subpath:
 image:
-  path: ""
+  path: "https://www.kitchensanctuary.com/wp-content/uploads/2019/07/Gua-Bao-Buns-Pork-Belly-square-FS-7271.jpg"
   alt: "Bao buns"
   
 ---
