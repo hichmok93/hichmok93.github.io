@@ -67,8 +67,8 @@ Ready to assemble. Carrot and cabbage go in first, don't be stingy with this. Th
 
 ## List of ingredients:  
 
+
 ![Desktop View](https://rookplankje.nl/wp-content/uploads/2022/02/Sfeerbeeld_Sebra_Forged_Aziatisch_Hakmes.jpg){: w="300" h="200" }{: .left }{: .shadow }
- 
 
 #### Sweet spicy drizzle 
 
