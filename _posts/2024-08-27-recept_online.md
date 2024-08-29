@@ -62,13 +62,13 @@ The following day (or a few hours later) take the pork and place on a cutting su
 
 Once the sauce haa reduced, slice your pork belly into 1cm strips (thicker if you like) and dump in the reduced sticky sauce to coat it. Turn down your heat and let that sit for a few minutes whilst you thinly slice your garnish ingredients and prep your buns for assembly.
 
-![Desktop View](https://rookplankje.nl/wp-content/uploads/2022/02/Sfeerbeeld_Sebra_Forged_Aziatisch_Hakmes.jpg){: w="300" h="200" }{: .left }{: .shadow }
- 
-
 Mix your sauce ingredients, put in a squeezy bottle if you're feeling fancy if not you can use a spoon to add to the buns.
 Ready to assemble. Carrot and cabbage go in first, don't be stingy with this. Then slip in your pork belly slice making sure it's covered in your sticky sauce. Then sprinkle your spring onion on top and slather that spicy tangy mayo over it all. Ready to serve! ❤️ 
 
 ## List of ingredients:  
+
+![Desktop View](https://rookplankje.nl/wp-content/uploads/2022/02/Sfeerbeeld_Sebra_Forged_Aziatisch_Hakmes.jpg){: w="300" h="200" }{: .left }{: .shadow }
+ 
 
 #### Sweet spicy drizzle 
 
