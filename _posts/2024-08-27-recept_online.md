@@ -1,8 +1,8 @@
 ---
 title: Bao-Buns recept - Asian glazed pork belly style
 date: 2024-08-27 11:34:00 +0800
-categories: [food, fotografie]
-tags: [Azië]     # TAG names should always be lowercase
+categories: [Food, Fotografie]
+tags: [Aziatisch keuken]     # TAG names should always be lowercase
 description: Een heerlijk recept voor authentieke Bao Buns gevonden op Reddit! - This is a discription on how to make the Bao buns easy & authentic recipie described in a step to by process. Enjoy! 
 toc: true
 media_subpath: /assets/img/
@@ -25,13 +25,14 @@ _Bao Buns_
 | Oil                  | 25 ml             |
 
 ## Start with the Bao Buns.
-Combine the dry ingredients in a bowl and mix together. In a separate jug add the liquid ingredients (just 200ml of water to begin) and mix.
+Combine the dry ingredients in a bowl and mix together. In a separate jug add the liquid ingredients (200ml water)and mix.
 
-Slowly add the liquid to the bowl whilst stirring until all is properly combined. Now time to knees. You can use a stand mixer here with a hook or a paddle attachment, or knead by hand. If using the mixer start slow and then move up to a medium speed, dough is ready when it has all combined and is coming away from the sides of the bowl. If kneading by hand you'll need a good 5 minutes of hard work on a lightly dusted surface. Either method is fine here. Coat lightly in oil and leave to proof for 2-3 hours covered with a tea towel.
+Slowly add the mix of water and yeast to the bowl whilst stirring until all is properly combined. Now time to knees. You can use a stand mixer here with a hook or a paddle attachment, or knead by hand. If using the mixer start slow and then move up to a medium speed, dough is ready when it has all combined and is coming away from the sides of the bowl. If kneading by hand you'll need a good 5 minutes of hard work on a lightly dusted surface. Either method is fine here. Coat lightly in oil and leave to proof for 2-3 hours covered with a tea towel.
 
-Once risen, tip out from your bowl and separate out into 12-14 similar sized balls. You can roll these balls in your hand to make smooth, but the best technique is to press into the middle of a ball with your thumb and pinch the sides with your other hand up and over your thumb. Repeat this until you can pinch the dough together and you have a smooth underside on the dough ball. Place on your surface pinched side up and repeat with all the balls.
+Once risen, tip out from your bowl and separate out into 12-14 similar sized balls. You can roll these balls in your hand to make smooth, but the best technique is to press into the middle of a ball with your thumb and pinch the sides with your other hand up and over your thumb. 
 
-You then roll out the bao into a little pitta like shape, around 2-3mm thickness. Rub a small bit of oil on one half and fold the other half over to make the classic Bao shape.
+Repeat this until you can pinch the dough together and you have a smooth underside on the dough ball. Place on your surface pinched side up and repeat with all the balls. You then roll out the bao into a little pitta like shape, around 2-3mm thickness. Rub a small bit of oil on one half and fold the other half over to make the classic Bao shape.
+
 Buns then go into a steamer for 8-10 minutes, you can do this in any steamer however best results are had with a bamboo basket steamer.
 Remove from the steamer, leave to cool slightly, peel apart to open them up and fill with whatever you want. I do this with pork belly, which I'll explain below.
 
@@ -56,16 +57,18 @@ Mix all of the pork marinade ingredients, except for the water, together in a la
 ![Desktop View](https://www.kitchensanctuary.com/wp-content/uploads/2019/07/Gua-Bao-Buns-Pork-Belly-square-FS-7271.jpg){: w="350" h="300" }{: .right }{: .shadow }
 
 Once cooked, remove the pork belly and place in a dish with high sides, strain the solids out of the braising liquid and then pour the liquid into the dish with the pork, it should not cover the fat. Cover and refrigerate overnight, although you can skip this step if you don't want to wait, the pork is much easier to slice cleanly if you can refrigerate and will really develop even more flavour.
+
 The following day (or a few hours later) take the pork and place on a cutting surface. Scoop off any fat from the liquid, and take a few ladels of this to start reducing down in a pan. You can get this as thick and sticky as you like, if you don't have much time you can add a cornflour slurry to thicken it up, but a good 20 minutes half hour to reduce will make this irresistible.
 
 Once the sauce haa reduced, slice your pork belly into 1cm strips (thicker if you like) and dump in the reduced sticky sauce to coat it. Turn down your heat and let that sit for a few minutes whilst you thinly slice your garnish ingredients and prep your buns for assembly.
+
 Mix your sauce ingredients, put in a squeezy bottle if you're feeling fancy if not you can use a spoon to add to the buns.
-
-Ready to assemble. Carrot and cabbage go in first, don't be stingy with this. Then slip in your pork belly slice making sure it's covered in your sticky sauce. Then sprinkle your spring onion on top and slather that spicy tangy mayo over it all.
-
-Ready to serve.
+Ready to assemble. Carrot and cabbage go in first, don't be stingy with this. Then slip in your pork belly slice making sure it's covered in your sticky sauce. Then sprinkle your spring onion on top and slather that spicy tangy mayo over it all. Ready to serve! ❤️ 
 
 ## List of ingredients:  
+
+
+![Desktop View](https://rookplankje.nl/wp-content/uploads/2022/02/Sfeerbeeld_Sebra_Forged_Aziatisch_Hakmes.jpg){: w="300" h="200" }{: .left }{: .shadow }
 
 #### Sweet spicy drizzle 
 
