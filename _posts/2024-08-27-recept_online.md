@@ -1,5 +1,5 @@
 ---
-title: Bao-Buns recept - Asian glazed pork belly style
+title: Bao-Buns recept - Asian glazed.
 date: 2024-08-27 11:34:00 +0800
 categories: [Food, Fotografie]
 tags: [Aziatisch keuken]     # TAG names should always be lowercase
@@ -8,7 +8,7 @@ toc: true
 media_subpath: /assets/img/
 image:
     path: "https://www.ocado.com/cmscontent/recipe_image_large/41941756.jpg?dXmq"
-    alt: "Bao buns - Asian glazed pork belly"
+    alt: "Bao buns - Asian glazed pork or chicken belly"
 ---
 
 _Bao Buns_
@@ -34,13 +34,13 @@ Once risen, tip out from your bowl and separate out into 12-14 similar sized bal
 Repeat this until you can pinch the dough together and you have a smooth underside on the dough ball. Place on your surface pinched side up and repeat with all the balls. You then roll out the bao into a little pitta like shape, around 2-3mm thickness. Rub a small bit of oil on one half and fold the other half over to make the classic Bao shape.
 
 Buns then go into a steamer for 8-10 minutes, you can do this in any steamer however best results are had with a bamboo basket steamer.
-Remove from the steamer, leave to cool slightly, peel apart to open them up and fill with whatever you want. I do this with pork belly, which I'll explain below.
+Remove from the steamer, leave to cool slightly, peel apart to open them up and fill with whatever you want. I do this with pork or chicken belly, which I'll explain below.
 
-_Pork Ingrediënt_
+_pork or chicken Ingrediënt_
 
 | Ingrediënt             | Hoeveelheid       |
 | :--------------------- | :---------------- |
-| Boneless pork belly    | 700 grams         |
+| Boneless pork or chicken belly or Chicken    | 700 grams         |
 | Light soy              | 200 ml            |
 | Dark soy               | 100 ml            |
 | Shaoxing cooking wine  | 200 ml            |
@@ -52,18 +52,18 @@ _Pork Ingrediënt_
 | Fennel seeds           | 1/2 theelepel     |
 | Water                  | Genoeg om te bedekken |
 
-## Next step: Asian glazed pork belly
-Mix all of the pork marinade ingredients, except for the water, together in a large oven proof dish which you can cover with a lid. Place the pork fat side up into the marinade and pour over your water until it just about covers the pork belly. Cover with your lid and braise in the oven at 140 for 2 - 2 1/2 hours. 
-![Desktop View](https://www.kitchensanctuary.com/wp-content/uploads/2019/07/Gua-Bao-Buns-Pork-Belly-square-FS-7271.jpg){: w="350" h="300" }{: .right }{: .shadow }
+## Next step: Asian glazed pork or chicken belly
+Mix all of the pork or chicken marinade ingredients, except for the water, together in a large oven proof dish which you can cover with a lid. Place the pork or chicken fat side up into the marinade and pour over your water until it just about covers the pork or chicken belly. Cover with your lid and braise in the oven at 140 for 2 - 2 1/2 hours. 
+![Desktop View](https://www.kitchensanctuary.com/wp-content/uploads/2019/07/Gua-Bao-Buns-pork or chicken-Belly-square-FS-7271.jpg){: w="350" h="300" }{: .right }{: .shadow }
 
-Once cooked, remove the pork belly and place in a dish with high sides, strain the solids out of the braising liquid and then pour the liquid into the dish with the pork, it should not cover the fat. Cover and refrigerate overnight, although you can skip this step if you don't want to wait, the pork is much easier to slice cleanly if you can refrigerate and will really develop even more flavour.
+Once cooked, remove the pork or chicken belly and place in a dish with high sides, strain the solids out of the braising liquid and then pour the liquid into the dish with the pork or chicken, it should not cover the fat. Cover and refrigerate overnight, although you can skip this step if you don't want to wait, the pork or chicken is much easier to slice cleanly if you can refrigerate and will really develop even more flavour.
 
-The following day (or a few hours later) take the pork and place on a cutting surface. Scoop off any fat from the liquid, and take a few ladels of this to start reducing down in a pan. You can get this as thick and sticky as you like, if you don't have much time you can add a cornflour slurry to thicken it up, but a good 20 minutes half hour to reduce will make this irresistible.
+The following day (or a few hours later) take the pork or chicken and place on a cutting surface. Scoop off any fat from the liquid, and take a few ladels of this to start reducing down in a pan. You can get this as thick and sticky as you like, if you don't have much time you can add a cornflour slurry to thicken it up, but a good 20 minutes half hour to reduce will make this irresistible.
 
-Once the sauce haa reduced, slice your pork belly into 1cm strips (thicker if you like) and dump in the reduced sticky sauce to coat it. Turn down your heat and let that sit for a few minutes whilst you thinly slice your garnish ingredients and prep your buns for assembly.
+Once the sauce haa reduced, slice your pork or chicken belly into 1cm strips (thicker if you like) and dump in the reduced sticky sauce to coat it. Turn down your heat and let that sit for a few minutes whilst you thinly slice your garnish ingredients and prep your buns for assembly.
 
 Mix your sauce ingredients, put in a squeezy bottle if you're feeling fancy if not you can use a spoon to add to the buns.
-Ready to assemble. Carrot and cabbage go in first, don't be stingy with this. Then slip in your pork belly slice making sure it's covered in your sticky sauce. Then sprinkle your spring onion on top and slather that spicy tangy mayo over it all. Ready to serve! ❤️ 
+Ready to assemble. Carrot and cabbage go in first, don't be stingy with this. Then slip in your pork or chicken belly slice making sure it's covered in your sticky sauce. Then sprinkle your spring onion on top and slather that spicy tangy mayo over it all. Ready to serve! ❤️ 
 
 ## List of ingredients:  
 
