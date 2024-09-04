@@ -21,7 +21,7 @@ El Houb vertelt het verhaal van het hoofdpersonage Karim (Fahd Larhzaoui), die o
 
 De film geeft een ijzersterke weergave van hoe de Marokkaans-islamitische gemeenschap het onderwerp (homo)seksualiteit benadert. De gemeenschap veegt het thema (homo)seksualiteit vaak onder het tapijt veegt. Dit is iets wat de filmmaker hoopt te doorbreken. Door op een integere en realistische wijzen te laten zien hoe er met pijnlijke familiesituaties wordt omgegaan binnen een Marokkaanse conservative cultuur en hoe deze daad vervolgens niet alleen het gezin, maar ook de gemeenschap beïnvloedt.
 
-![Image description](a.jpg){: w="400" h="200" }{: .right }{: .shadow }
+![Image description](https://i0.wp.com/www.metroweekly.com/wp-content/uploads/2023/04/El-HOUB-courtesy-of-DARK-STAR-PICTURES-16.jpg?resize=960%2C540&ssl=1){: w="400" h="200" }{: .right }{: .shadow }
 
 Tegelijkertijd weet de filmmaker ruimte te creëren om ongemakkelijke momenten met intelligente oneliners en humor het thema bespreekbaar te maken. Met emotionele flashbacks die de gezinsdynamiek aan het licht brengen, creëert de maker niet alleen voor de personages, maar ook voor de toeschouwer een ruimte om de taboes herkenbaar en tastbaar in beeld weer te geven.
 Door het actief benaderen van het onderwerp homoseksualiteit op deze manier proberen de filmmakers de existentiële culturele en maatschappelijke vraagstukken, die vaak onbesproken blijven, een antwoord te bieden. En zo tot een oplossing te komen voor de impasse. Door dit te doen, probeert de regisseur met deze verworven inzichten in zowel de Marokkaanse als Nederlandse cultuur precaire emoties naar de voorgrond te brengen en bespreekbaar te maken, vaak op momenten waar er geen beweging meer lijkt te zijn in het discours binnen het gezin.
