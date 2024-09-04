@@ -1,7 +1,7 @@
 ---
 title: Nostalgia Ultra - Album by Frank Ocean
 date: 2024-09-02 11:34:00 +0800
-categories: [Art, Mix-Tape]
+categories: [Art, Mixtape]
 tags: [music, Pop culture]     # TAG names should always be lowercase
 description: A mixtape made and preformed by frank Ocean, this Mix-tape is considerd to have changed the Hip-Hop music scene in the early 10's of this century. 
 toc: true
