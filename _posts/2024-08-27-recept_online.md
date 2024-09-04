@@ -89,3 +89,5 @@ Ready to assemble. Carrot and cabbage go in first, don't be stingy with this. Th
 | Spring onion      | Naar smaak        |
 
 
+![Image description](https://upload.wikimedia.org/wikipedia/commons/1/12/Handala.svg){: .central }{: w="100" h="100" }{: .shadow }
+_Handala: created in 1969 by the late Palestinian political cartoonist Naji al-Ali._

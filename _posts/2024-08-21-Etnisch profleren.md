@@ -1,7 +1,7 @@
 ---
 title: Opinie - Etnisch profileren. 
 date: 2023-01-20 18:34:00 +0800
-categories: [filofosie, Ethiek]
+categories: [Filofosie, Ethiek]
 tags: [mens, psychologie, politiek, opinie]     # TAG names should always be lowercase
 description: Etnisch profileren verwijst naar de praktijk waarbij iemands ras of etniciteit wordt gebruikt als de belangrijkste reden om hem of haar van criminele activiteiten te verdenken. Dit type profilering wordt als discriminerend beschouwd en wordt over het algemeen gezien als een schending van burgerrechten.
 media_subpath: /assets/img/
@@ -40,5 +40,8 @@ Helaas is deze verdeeldheid alleen maar erger geworden sinds mijn ervaring in ja
 - Waarom wordt er op luchthavens aan etnisch profileren gedaan door de Israëlische marechaussee?
 - Wat zijn de ervaringen van anderen met vergelijkbare situaties bij aankomst op de luchthaven (bijvoorbeeld Palestijnen die in Israël wonen met een Israëlisch paspoort)? 
 - Wat zegt de Israëlische overheid over etnisch profileren op luchthaven Ben-Gurion?
+
+![Image description](https://upload.wikimedia.org/wikipedia/commons/1/12/Handala.svg){: .central }{: w="100" h="100" }{: .shadow }
+_Handala: created in 1969 by the late Palestinian political cartoonist Naji al-Ali._
 
 

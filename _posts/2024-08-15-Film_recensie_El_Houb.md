@@ -38,3 +38,7 @@ Een uiterst ingrijpend verhaal dat de pijn van migratie, integratie, sociale kla
 ### Trailer: EL Houb (2022)
 
 {% include embed/youtube.html id='6PjmeqJasMs' %}
+
+
+![Image description](https://upload.wikimedia.org/wikipedia/commons/1/12/Handala.svg){: .central }{: w="100" h="100" }{: .shadow }
+_Handala: created in 1969 by the late Palestinian political cartoonist Naji al-Ali._
