@@ -11,7 +11,7 @@ image:
     alt: "Bao buns - Asian glazed chicken"
 ---
 
-_Bao Buns_
+## _Bao Buns_
 
 | Ingrediënt           | Hoeveelheid       |
 | :------------------- | :---------------- |
@@ -36,7 +36,7 @@ Repeat this until you can pinch the dough together and you have a smooth undersi
 Buns then go into a steamer for 8-10 minutes, you can do this in any steamer however best results are had with a bamboo basket steamer.
 Remove from the steamer, leave to cool slightly, peel apart to open them up and fill with whatever you want. I do this with pork or chicken , which I'll explain below.
 
-_pork or chicken Ingrediënt_
+## _Pork or Chicken marinade Ingrediënt_
 
 | Ingrediënt             | Hoeveelheid       |
 | :--------------------- | :---------------- |
@@ -68,10 +68,9 @@ Ready to assemble. Carrot and cabbage go in first, don't be stingy with this. Th
 
 ## List of ingredients:  
 
+![Desktop View](https://rookplankje.nl/wp-content/uploads/2022/02/Sfeerbeeld_Sebra_Forged_Aziatisch_Hakmes.jpg){: w="410" h="200" }{: .left }{: .shadow }
 
-![Desktop View](https://rookplankje.nl/wp-content/uploads/2022/02/Sfeerbeeld_Sebra_Forged_Aziatisch_Hakmes.jpg){: w="300" h="200" }{: .left }{: .shadow }
-
-#### Sweet spicy drizzle 
+### Sweet spicy drizzle 
 
 | Ingrediënt        | Hoeveelheid       |
 | :---------------- | :---------------- |
@@ -81,7 +80,7 @@ Ready to assemble. Carrot and cabbage go in first, don't be stingy with this. Th
 | Rice vinegar      | Dash              |
 
 
-#### Garnish
+### Garnish
 
 | Ingrediënt        | Hoeveelheid       |
 | :---------------- | :---------------- |
