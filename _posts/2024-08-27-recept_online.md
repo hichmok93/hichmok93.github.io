@@ -54,7 +54,8 @@ _pork or chicken Ingrediënt_
 
 ## Next step: Asian glazed pork or chicken belly
 Mix all of the pork or chicken marinade ingredients, except for the water, together in a large oven proof dish which you can cover with a lid. Place the pork or chicken fat side up into the marinade and pour over your water until it just about covers the pork or chicken belly. Cover with your lid and braise in the oven at 140 for 2 - 2 1/2 hours. 
-![Desktop View](https://www.kitchensanctuary.com/wp-content/uploads/2019/07/Gua-Bao-Buns-pork or chicken-Belly-square-FS-7271.jpg){: w="350" h="300" }{: .right }{: .shadow }
+
+![Desktop View](https://www.kitchensanctuary.com/wp-content/uploads/2019/07/Gua-Bao-Buns-Pork-Belly-tall2-7243.webp){: w="350" h="300" }{: .right }{: .shadow }
 
 Once cooked, remove the pork or chicken belly and place in a dish with high sides, strain the solids out of the braising liquid and then pour the liquid into the dish with the pork or chicken, it should not cover the fat. Cover and refrigerate overnight, although you can skip this step if you don't want to wait, the pork or chicken is much easier to slice cleanly if you can refrigerate and will really develop even more flavour.
 
