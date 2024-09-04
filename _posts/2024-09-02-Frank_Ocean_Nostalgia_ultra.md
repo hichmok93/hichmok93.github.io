@@ -16,6 +16,3 @@ image:
 
 <iframe style="border-radius:20px" src="https://open.spotify.com/embed/album/182D7nDZqcYghZKQxnSJ03?utm_source=generator&theme=0" width="100%" height="900" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-
-![Image description](https://upload.wikimedia.org/wikipedia/commons/1/12/Handala.svg){: .central }{: w="100" h="100" }{: .shadow }
-_Handala: created in 1969 by the late Palestinian political cartoonist Naji al-Ali._
