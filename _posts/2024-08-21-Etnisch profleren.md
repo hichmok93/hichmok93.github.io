@@ -13,17 +13,15 @@ image:
  
 # Etnisch profileren
 
-## Inleiding
+## Ben-Gurion Airport
 Mijn aankomst op luchthaven Ben-Gurion was een interessante kennismaking met het land. Bij aankomst in Tel Aviv werd ik twee uur vastgehouden en ondervraagd. De uitermate brutale en onvriendelijke benadering van het personeel gaf me het gevoel dat ik als misdadiger werd behandeld, terwijl ik niets had misdaan. Ik landde enkel op een stuk grond dat al decennialang politiek gevoelig ligt. Het gesprek met een van de medewerkers van de luchthaven verliep als volgt: "Wie is je vader?" Ik antwoord: "Omar." "Wie is de vader van je vader?" "Max." Ik zie aan haar lichaamstaal dat ze dit niet kan geloven. "Loop maar mee," zegt ze. Ze wijst naar een plastic tuinstoel in de hal: "Ga hier maar zitten en vul dit formulier in." Ze overhandigt me een briefje met dezelfde vragen en een verzoek om mijn contactgegevens. Dit alles gebeurt naast een lange rij reizigers die net zoals ik zojuist zijn aangekomen en wachten om door de douane te gaan.
 
 Iedereen kan zien dat ik eruit gepikt ben. Naast mij zit een Italiaanse vrouw die zich ook beklaagt over de ogenschijnlijk racistische aard van haar controle. Ze vertelt me dat dit niet de eerste keer is dat ze na een terugkomst in Israël wordt staande gehouden.
 
-#### Definitie:
-
+#### _Etnisch profileren:_ 
 "_Etnisch profileren verwijst naar de praktijk waarbij iemands ras of etniciteit wordt gebruikt als de belangrijkste reden om hem of haar van criminele activiteiten te verdenken. Dit type profilering wordt als discriminerend beschouwd en wordt over het algemeen gezien als een schending van burgerrechten._"
 
-
-![Image description](https://image.parool.nl/150918358/width/2480/etnisch-profileren-ondermijnt-de-samenleving){: lqip="https://image.parool.nl/150918358/width/2480/etnisch-profileren-ondermijnt-de-samenleving" }{: w="300" h="200" }{: .right }{: .shadow } 
+![Image description](https://image.parool.nl/150918358/width/2480/etnisch-profileren-ondermijnt-de-samenleving){: lqip="https://image.parool.nl/150918358/width/2480/etnisch-profileren-ondermijnt-de-samenleving" }{: w="400" h="100" }{: .right }{: .shadow } 
 
 De vrouw naast mij heeft, net als ik, donkere ogen en donker haar en een Westers, maar ambigu uiterlijk. Ze woont en werkt in Israël en reist geregeld naar het buitenland. Toch wordt ze steeds weer apart gehouden en worden haar gegevens gecontroleerd. Uiteindelijk mag ze met haar roze papiertje en paspoort de luchthaven verlaten. Dat zal mij ook gebeuren, maar pas na een verdere ondervraging. In de tussentijd wacht ik op de witte tuinstoel in de aankomsthal, tegenover de rij passagiers uit mijn vlucht. Met enkele wissel ik blikken.
 
