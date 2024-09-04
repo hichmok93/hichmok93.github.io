@@ -41,7 +41,7 @@ Helaas is deze verdeeldheid alleen maar erger geworden sinds mijn ervaring in ja
 - Wat zijn de ervaringen van anderen met vergelijkbare situaties bij aankomst op de luchthaven (bijvoorbeeld Palestijnen die in Israël wonen met een Israëlisch paspoort)? 
 - Wat zegt de Israëlische overheid over etnisch profileren op luchthaven Ben-Gurion?
 
-![Image description](https://upload.wikimedia.org/wikipedia/commons/1/12/Handala.svg){: .central }{: w="100" h="100" }{: .shadow }
+![Image description](https://upload.wikimedia.org/wikipedia/commons/1/12/Handala.svg){: .right }{: w="100" h="100" }
 _Handala: created in 1969 by the late Palestinian political cartoonist Naji al-Ali._
 
 
