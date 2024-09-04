@@ -1,9 +1,9 @@
 ---
-title: Bao-Buns recept - Asian glazed.
+title: Bao-Buns recept - Asian glazed Chicken.
 date: 2024-08-27 11:34:00 +0800
 categories: [Food, Fotografie]
 tags: [Aziatisch keuken]     # TAG names should always be lowercase
-description: Een heerlijk recept voor authentieke Bao Buns gevonden op Reddit! - This is a discription on how to make the Bao buns easy & authentic recipie described in a step to by process. Enjoy! 
+description: Een heerlijk recept voor authentieke Bao Buns gevonden op Reddit! - A discription on how to make an authentic Bao buns dish. Follow the recipie as described in a step to by process and Enjoy! 
 toc: true
 media_subpath: /assets/img/
 image:
@@ -64,7 +64,9 @@ The following day (or a few hours later) take the pork or chicken and place on a
 Once the sauce haa reduced, slice your pork or chicken  into 1cm strips (thicker if you like) and dump in the reduced sticky sauce to coat it. Turn down your heat and let that sit for a few minutes whilst you thinly slice your garnish ingredients and prep your buns for assembly.
 
 Mix your sauce ingredients, put in a squeezy bottle if you're feeling fancy if not you can use a spoon to add to the buns.
-Ready to assemble. Carrot and cabbage go in first, don't be stingy with this. Then slip in your pork or chicken  slice making sure it's covered in your sticky sauce. Then sprinkle your spring onion on top and slather that spicy tangy mayo over it all. Ready to serve! ❤️ 
+Ready to assemble. Carrot and cabbage go in first, don't be stingy with this. Then slip in your pork or chicken  slice making sure it's covered in your sticky sauce. Then sprinkle your spring onion on top and slather that spicy tangy mayo over it all. 
+
+Ready to serve! ❤️ 
 
 ## List of ingredients:  
 
