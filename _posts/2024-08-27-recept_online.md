@@ -8,7 +8,7 @@ toc: true
 media_subpath: /assets/img/
 image:
     path: "https://www.ocado.com/cmscontent/recipe_image_large/41941756.jpg?dXmq"
-    alt: "Bao buns - Asian glazed pork or chicken belly"
+    alt: "Bao buns - Asian glazed"
 ---
 
 _Bao Buns_
