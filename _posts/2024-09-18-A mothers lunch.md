@@ -4,6 +4,10 @@ date: 2024-09-12 15:21:56 +/-0001
 categories: [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [TAG]     # TAG names should always be lowercase
 published: yes
+media_subpath: /assets/img/
+image:
+  path: "1233.jpg"
+  alt: "flore"
 ---
 
 De gedragingen van je ouders vinden een weg terug naar jezelf. zonder dat je het door hebt wordt er een rookgoordijn opgehangen die je jaren met je meedraagt. je kunt dit gordijn in een negatief contect plaatsen. wij als mensen zijn graag geneigd te denken en te voelen in het negative, deze emoties doem zich op en je vidnt een manier hier passend mee om te gaan. comping. 
