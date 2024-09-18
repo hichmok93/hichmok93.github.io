@@ -85,4 +85,4 @@ Waarom maak jij je geaardheid zogroot binnen de groep, ik maak deze niet groot, 
 
 wat iets waar geen ruimte voor bestaat, is bij voorbaar al de uiting hoe groot of klein of te veel. 
 
-Het ervaren en voelen van deze misstanden is in de wereld een gegeven, maar die van je ouder niet krijgen is pijnlijk en heeft gevolgen. de vraag is hoe hier mee om te gaan? 
+Het ervaren en voelen van deze misstanden is in de wereld een gegeven, maar die van je ouder niet krijgen is pijnlijk en heeft gevolgen voor de relatie onderling of ik dat wil of niet. de vraag is hoe hier mee om te gaan? 
