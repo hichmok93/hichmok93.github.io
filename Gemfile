@@ -8,6 +8,7 @@ gem 'csv'
 gem 'base64'
 gem 'jekyll-compose', group: [:jekyll_plugins]
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+gem 'logger'
 group :test do
   gem "html-proofer", "~> 5.0"
 end
