@@ -19,7 +19,7 @@ De speelfilm El Houb, het Arabische woord voor "de Liefde", geregisseerd door de
 
 El Houb vertelt het verhaal van het hoofdpersonage Karim (Fahd Larhzaoui), die openhartig aan zijn ouders vertelt dat hij homoseksuele gevoelens heeft. Hij vraagt erkenning binnen het gezin en indirect ook binnen de gemeenschap.
 
-De film geeft een ijzersterke weergave van hoe de Marokkaans-islamitische gemeenschap het onderwerp (homo)seksualiteit benadert. De gemeenschap veegt het thema (homo)seksualiteit vaak onder het tapijt veegt. Dit is iets wat de filmmaker hoopt te doorbreken. Door op een integere en realistische wijzen te laten zien hoe er met pijnlijke familiesituaties wordt omgegaan binnen een Marokkaanse conservative cultuur en hoe deze daad vervolgens niet alleen het gezin, maar ook de gemeenschap beïnvloedt.
+De film geeft een ijzersterke weergave van hoe de Marokkaans-islamitische gemeenschap het onderwerp (homo)seksualiteit benadert. De gemeenschap veegt het thema (homo)seksualiteit vaak onder het tapijt. Dit is iets wat de filmmaker hoopt te doorbreken. Door op een integere en realistische wijzen te laten zien hoe er met pijnlijke familiesituaties wordt omgegaan binnen een Marokkaanse conservative cultuur en hoe dit  vervolgens niet alleen het gezin, maar ook de gemeenschap beïnvloedt.
 
 ![Image description](https://i0.wp.com/www.metroweekly.com/wp-content/uploads/2023/04/El-HOUB-courtesy-of-DARK-STAR-PICTURES-16.jpg?resize=960%2C540&ssl=1){: w="400" h="200" }{: .right }{: .shadow }
 
@@ -28,14 +28,15 @@ Door het actief benaderen van het onderwerp homoseksualiteit op deze manier prob
 
 Het verhaal is in wezen een samensmelting van de Marokkaanse en Nederlandse cultuur. Het toont hoe culturele gebruiken en tradities functioneren binnen een collectieve gemeenschap zoals de Marokkaanse, en hoe deze op bepaalde momenten in conflict komen wanneer ze worden geïntroduceerd in een liberale cultuur die in de Randstad sterker aanwezig is dan in andere gebieden in Nederland.
 
-Het hoofdpersonage Karim en zijn moeder (Fatima) begrijpen elkaar niet, maar vragen wel begrip voor elkaars situatie. Paradoxaal genoeg zorgt dit juist voor het gevoel dat men zich niet begrepen en gezien voelt. Tegelijkertijd voelt de regisseur haarscherp aan dat de oplossing juist in dit begrip ligt en weet hij dit gedurende de film feilloos te benoemen door middel van een serie flashbacks en gedeelde momenten. Deze flashbacks worden door de gezinsleden onderling gedeeld, waardoor ze gedwongen worden de situatie vanuit het perspectief van de ander te aanschouwen en te herbeleven.
+Het hoofdpersonage Karim en zijn moeder (Fatima) elkaar niet begrijpen, maar wel vragen wel voor elkaars begrip. Paradoxaal genoeg zorgt dit juist voor het gevoel dat beide partije zich niet begrepen en gezien voelen. Tegelijkertijd voelt de regisseur haarscherp aan dat de oplossing juist in dit begrip ligt en weet hij dit gedurende de film feilloos te benoemen door middel van een serie flashbacks en gedeelde momenten. Deze flashbacks worden door de gezinsleden onderling gedeeld, waardoor ze gedwongen worden de situatie vanuit het perspectief van de ander te aanschouwen en te herbeleven.
 
 Door deze gedeelde inzichten verandert El Houb van een emotioneel zwaarmoedig naar een hoopvol verhaal, waarbij pijnlijke emoties een passende uitlaatklep krijgen. Dit wordt versterkt door het onderliggende thema dat schuilgaat in de titel zelf. Uiteindelijk is het de liefde (El Houb) die doorslaggevend is in het creëren van verbinding en toenadering tot de ander.
 
 De makers hebben een verhaal op film vastgelegd dat binnen de eigen cultuur niet vaak in de openheid wordt besproken, en voor de verandering wordt verteld vanuit het perspectief van de mensen om wie het gaat, in plaats van door de ogen van buitenstaanders die het vaak slechts vanuit de actualiteiten meekrijgen. De regisseur heeft de noodzaak hiervan ingezien en heeft het mogelijk gemaakt om dit keer het verhaal anders te vertellen. Hij heeft dit weten over te brengen in een verhaal dat volledig tot zijn recht komt vanuit het perspectief van de groep. Het taboe rond het onderwerp ligt, zo heeft de regisseur correct geanalyseerd, voornamelijk binnen de gemeenschap.
 
-Een uiterst ingrijpend verhaal dat de pijn van migratie, integratie, sociale klassen, vrouwenemancipatie, homoseksualiteit en uiteindelijk de liefde in zijn meest pure vorm bespreekbaar maakt en toont aan ieder publiek, dapper genoeg om te zien wat (homo)seksualiteit in essentie is: een liefdesverhaal.
+Een uiterst ingrijpend verhaal dat de pijn van migratie, integratie, sociale klassen, vrouwenemancipatie, homoseksualiteit en uiteindelijk de liefde in zijn meest pure vorm bespreekbaar maakt en toont aan ieder publiek toont, dapper genoeg om te aanschouwen wat (homo)seksualiteit in essentie is: een liefdesverhaal.
 
 ### Trailer: EL Houb (2022)
 
 {% include embed/youtube.html id='6PjmeqJasMs' %}
+  

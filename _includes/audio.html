@@ -1,0 +1,16 @@
+<div class="audio-player">
+    <h4>{{ include.title }}</h4>
+    <audio controls>
+      {% if include.types contains 'mp3' %}
+        <source src="{{ include.src }}" type="audio/mpeg">
+      {% endif %}
+      {% if include.types contains 'ogg' %}
+        <source src="{{ include.src | replace: 'mp3', 'ogg' }}" type="audio/ogg">
+      {% endif %}
+      {% if include.types contains 'wav' %}
+        <source src="{{ include.src | replace: 'mp3', 'wav' }}" type="audio/wav">
+      {% endif %}
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+  
