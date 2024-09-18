@@ -1,12 +1,12 @@
 ---
 title: A mothers lunch
-date: 2024-09-18 15:21:56 +/-0001
+date: 2024-09-12 15:21:56 +/-0001
 categories: [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [TAG]     # TAG names should always be lowercase
 published: yes
 ---
 
-De gedragingen van je ouders vinden een weg terug naar jezelf. zonder dat je het doorhebt wordt er een rookgoordijn opgehangen die je jaren met je meedraagt. je kunt dit gordijn in een negatief contect plaatsen. wij als mensen zijn graag geneigd te denken en te voelen in het negative, deze emoties doem zich op en je vidnt een manier hier passend mee om te gaan. comping. 
+De gedragingen van je ouders vinden een weg terug naar jezelf. zonder dat je het door hebt wordt er een rookgoordijn opgehangen die je jaren met je meedraagt. je kunt dit gordijn in een negatief contect plaatsen. wij als mensen zijn graag geneigd te denken en te voelen in het negative, deze emoties doem zich op en je vidnt een manier hier passend mee om te gaan. comping. 
 
 wat is het coping van mijn ouders en wat is die van mij zelf, er ontaat een barriere waarbij je een kaant wordt opgedruckt, zelfs op momenten waarbij je zelf een keuze zou willen maken. 
 
@@ -28,7 +28,7 @@ De cultuur is er een die het geloof in achthoud, een die alles onziet in de naam
 
 het pad het pad is alles bepalend en daarmee ook de weg en de afleiding die er op het pad zich voordoen, hier valt veel voor te zeggen het is niet aan mij te oordelen hoe men zijn of haar leven wilt lijden en hoe deze ingedeeld dient te worden. 
 
-de ruimte om het niet eens te zijn met gebruiken en gedragingen binnen onze maatschappij hoe onredelijk ook. zalf op momenten dat deze onredelijkheid gevoeld wordt door de omgeving die het gedrag vertoont zich er bewust van is. 
+De ruimte om het niet eens te zijn met gebruiken en gedragingen binnen onze maatschappij hoe onredelijk ook. zelf op momenten dat deze onredelijkheid gevoeld wordt door de omgeving die het gedrag vertoont zich er bewust van is. 
 
 het zijn lasten, het zijn zaken die men moet dragen voor de rest van de omgeving. jou last is prive het is er een niet van schaamte zo wordt benoemd. mijn moeder zou voor mij door het vuur gaan. dit geloof ik. ze tracht de confentionele gebruiken en wetten van haar cultuur voorbij te schuiven voor het bestaan en de liefde voor haar kinderen net als die van vele ouders op hun eigen maniet doen en hebben gedaan.  
 
@@ -71,4 +71,14 @@ nieuwe informatie is dit niet, maar een uiting van dit geheel en de gevolgen die
 
 Mijn moeder wilt gespaard worden voor de zondes van haar zoon, ik zal nooit inbinnden op de manier waarom ze dat willen, ik zal daardoor een ander bestaan hebben in de familie maar ook ik in haar leven.
 
-Kan jij je inhouden en respect tonen. het inhouden is niet een blijk van respect, mijn verndering mij zelf klein maken voor de groep. hoort geen respect af te dwingen. Sexualiteit is niet voor niets een 
+Kan jij je inhouden en respect tonen. het inhouden is niet een blijk van respect, mij zelf klein maken voor de groep. hoort geen respect af te dwingen. Sexualiteit is niet iets waar ik mij klein voor zou moeten maken of iets wat er niet zou mogen zijn. dit is een fundamentele denk fout. en het schaad mijn interactie met mijzelf en de buiten wereld. al lijkt het nobel dat ik er niet naar gevraagd wordt en ik het daarom ook niet hoef te benoemen, dat bespaard mijzelf en de omgeving. 
+
+maar de enige die gespaard wordt is degene die de opvatting deelt dat homosexualitiet of iedere andere sexualiteit buiten de hetrosexuele de norm zou zijn, ik word hier niet mee gespraard, ik word de schaamte en zonde in de schoenen gewordpen. Al zal dat nooit de explicite bedoeling zijn. Toch geberud het.  
+
+Daarnaast wordt er ook een dubble moraal geehanteerd, de normen en waarde die hoog in het vaandeel worden gehouden zijn niet aan mij besteed. Hij zal in dit opzicht nooit voldoen.
+
+Waarom maak jij je geaardheid zogroot binnen de groep, ik maak deze niet groot, ik erken deze, erkening is al al een kwalijke daad. 
+
+wat iets waar geen ruimte voor bestaat, is bij voorbaar al de uiting hoe groot of klein of te veel. 
+
+Het ervaren en voelen van deze misstanden is in de wereld een gegeven, maar die van je ouder niet krijgen is pijnlijk en heeft gevolgen. de vraag is hoe hier mee om te gaan? 
