@@ -1,88 +1,67 @@
 ---
 title: A mothers lunch
 date: 2024-09-12 15:21:56 +/-0001
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [TAG]     # TAG names should always be lowercase
+categories: Mens
+tags: LHBTIQ+     # TAG names should always be lowercase
 published: yes
 media_subpath: /assets/img/
 image:
   path: "1233.jpg"
-  alt: "flore"
+  alt: "Madre, amigo, hermano y luz alumbrando"
 ---
 
-De gedragingen van je ouders vinden een weg terug naar jezelf. zonder dat je het door hebt wordt er een rookgoordijn opgehangen die je jaren met je meedraagt. je kunt dit gordijn in een negatief contect plaatsen. wij als mensen zijn graag geneigd te denken en te voelen in het negative, deze emoties doem zich op en je vidnt een manier hier passend mee om te gaan. comping. 
+De gedragingen van je ouders vinden een weg terug naar jezelf. Zonder dat je het door hebt wordt er een rookgordijn opgehangen die je jaren met je meedraagt. Je kunt dit gordijn in een zowel een positief als negatief context plaatsen, wij mensen zijn geneigd te denken en te voelen in rond negatieve emoties, Voor deze emoties doen zich op en je men vindt een manier hier passend mee om te gaan. Oftewel coping. 
 
-wat is het coping van mijn ouders en wat is die van mij zelf, er ontaat een barriere waarbij je een kaant wordt opgedruckt, zelfs op momenten waarbij je zelf een keuze zou willen maken. 
+Wat is het coping van mijn ouders en wat is die van mijzelf, er ontstaat een barrière waarbij je een richting wordt opgestuurd, zelfs op momenten waarbij je zelf een andere keuze zou willen maken. 
+Het debat en de emoties krijgen de overhand, het onderkennen en uitleggen en zien welke kant het gesprek en toekomst op gaan is pijnlijk. Niet alleen voor jezelf maar ook voor degene aan wie je het nieuws brengt, het lijkt misschien beter door helemaal niks te zeggen, het spel op zijn beloop te laten. En daarmee naar het delen en ervaren helpt bij het verduidelijken van de richting. Sturing nemen en een bepaalde mate van controller terug nemen. 
+Dit alles vraagt een bepaald balans, het opnemen van plaats. Het opnemen van ruimte gaat ten koste van de ruimte van de ander lijkt het soms. 
 
-het debat en de emoties krijgen de overhand, het onderkennen en uitleggen en zien welke kant het gesprek en toekomstr op gaan is pijnlijk. niet alleen voor jezelf maar ook voor degene aanwie je het nieuws brengt, het lijkt misschien beter door helemaal niks te zeggen, je het spel op zijn beloop laat. maar het delen en eraren helpt bij het verduidelijken van de richting. sturing nemen en een bepalde mate van controllle terugnemen. 
+Niet de strijd aan willen gaan, maar benoemen 
+Ik twijfel niet aan mijn plaats in de wereld ik weet waar ik sta in de samenleving en waar ik naartoe kan groeien, er is voor mij geen glazen plafon. Ik behoor misschien rond het opstellen van statistieken tot een bepaalde groep en binnen het debat en praatgroepen geven mij een label. Maar voor de mensen die het dichtst bij mij staan ben je een individuen. 
+[Wat is het individu - wat verwacht deze - wat krijgt het individu terug in de interactie met de groep.]
 
-dit vraagt een bepaald ballans, het opnemen van plaats. Het opnemen vna ruimte gaat ten kosten van de ruimte van de ander lijkt het soms. 
+Er mag verwacht worden dat binnen dit domein, van het zijn van een individu je de vrijheid hebt je te uiten zoals dat zelf wilt. Ik doe dat en de ander krijgt die kans ook. Op momenten dat elkaars standpunten in botsing komen is dat pijnlijk. 
+De cultuur is er een die het geloof in achthoud, een die alles ontziet in de naam van de islam, een waarbij er fouten mogen worden gemaakt en deze fouten dan wel vergrijpen dan wel zondes een passende plaats verdienen in het grote geheel en waarbij de eindrekening gepresenteerd zal worden ooit, in het huidige leven of erna in het paradijs dan wel erbuiten. 
+Het pad is alles bepalend en daarmee ook de weg en de afleiding die er op het pad zich voordoen, hier valt veel voor te zeggen het is niet aan mij te oordelen hoe men zijn of haar leven wil lijden en hoe deze ingedeeld zal worden. 
 
-het niet de strijd aan willen gaan, maar benoemen 
+De ruimte om het niet eens te zijn met gebruiken en gedragingen binnen onze maatschappij hoe onredelijk ook. Zelf op momenten dat deze onredelijkheid gevoeld wordt door de omgeving die het gedrag vertoont zich er bewust van is. 
+Het zijn lasten, het zijn zaken die men moet dragen voor de rest van de omgeving. Jou last is privé het is er een niet van schaamte zo wordt erbij benoemd. Mijn moeder zou voor mij door het vuur gaan. Dit geloof ik. Ze tracht de conventionele gebruiken en wetten van haar cultuur voorbij te schuiven voor het bestaan en de liefde voor haar kinderen net als die van vele ouders op hun eigen manier doen en hebben gedaan.  
 
-ik twijfel niet aan mijn plaats in de wereld ik weet waar ik sta in de samenleving en waar ik naartoe kan groeien. er is voormij geen glazen plafon. ik behoor misschien binnen de statestieken tot een bepaalde groep. en binnen debate en praat groepen geven mij een label. Maar voor de mensen die het dichtsbij je staan ben je een individue. 
+Het punt is dat ze deze wetten en regels veelal deelt en er voor haarzelf een middenweg voor probeert te vinden. Tot het moment daar is om een beslissing te maken. 
+De viering van familiewaarde staat hoog in het vaandel, binnen de conservatieve waarde, deze familiewaarde worden gekend door specifieke waarde en normen. 
+De waarde dat iedereen binnen de familie een rol heeft en onderdeel is van de groep dan wel gemeenschap. Dat deze ondanks haar tekortkomingen volgends de richtlijnen van de interpretatie van de islam onmiskenbaar onderdeel vormt van de gemeenschap. Ongetwijfeld tot een bepaalde hoogte en orde. Daarbij is deze niet anders dan andere sociale structuren in onze maatschappij. 
 
-[wat is het indivdue - wat verwacht deze - wat krijgt het indivueu terug in de interactie met de groep.]
+Ik ben daar niet blind voor, maar moet wel erkennen dat deze deken van samenhorigheid een is die aan voorwaarde zal voldoen. 
+Redelijkerwijs zijn we geneigd ons aan te passen aan redelijke verzoeken en wensen om zo de balans intact te houden om een middenweg te vinden. Dit alles om de familiewaarde en samenhorigheid binnen de groep in stand te houden.  Het is een nobel en eervol doel. Het grote geheel instant te willen houden. Het vraagt iets van een persoon dit offer te brengen om willen van het grote geheel. 
 
-er mag verwacht worden dat binnnen dit domein, van het zijn  van een indvidue je de vrijheid hebt je te uiten zoals je wilt zijn. ik doe dat en de ander krijgt die kans ook. 
+Op welk moment besluit je voor de warmte van de groep te kiezen en op welke momenten bepaal je waar deze op houdt.
+Het agressief behandeld worden omdat je een stemmend maakt omwille van je gedragingen, waarvan je de waters test, het testen geeft een duidelijk beeld van wat je kunt verwachten, het nooit volledig geaccepteerd zullen worden rond je seksualiteit. Wetend dat het iets is waar je geen controle over hebt.
+Hoe durf ik met mijn handje te proefvoeren en daarmee de groep uit te dagen in haar opvattingen, bind je in. Jouw gedragingen geven de groep aanstoot. Jou politieke en culturele uitingen vromen een gevaar de weg die wij willen behadelen. De onschuld is niet te vinden in het tarten met wat is mannelijk dan wel wat vrouwelijk is, wat is seksualiteit. Wie is god wat zijn haar gebruiken? 
 
-op momenten dat elkaars standputen in botsing komen is dat pijnlijk. 
+Een makkelijk pleidooi zou kunnen zijn, maak het offer, het is maar een klein deel van wie je in wezel bent, het zit iets dieper. 
+Men beweegt zich voort in de gedragingen en verhoudingen tot de ander, tot zijn opgebouwde familie, vrienden en kennissen. Het aan gaan van een relatie op ieder vlak vraagt flexibiliteit en acceptatie. Op momenten dat je een 
+Deze punten zijn clichématig waar, we zijn geneigd om in een semantische discussie te eindigen. Maar daar waar de handschoen wringt is in het opbouwen en bestaan van de persoon. De normen en waarde die gelden binnen de cultuur zullen nooit voor jou gelden. De regels zoals geïnterpreteerd zijn duidelijk. 
 
-De cultuur is er een die het geloof in achthoud, een die alles onziet in de naam van de islam, een waarbij er fouten mogen worden gemaakt en deze fouten dan wel vergrijpen dan wel zondes een passende plaats verdienen in het grote geheel en waarbij de eindrekening gepresenteerd zal worden ooit, in het huiddige leven of erna in het paradijs dan wel erbuiten. 
+Er is geen plaats voor jou seksualiteit in het geheel zoals jij wenst deze tot uiting te willen brengen. Het voelt bijna dogmatisch aan, je zou deze redenering natuurlijk ook op mijn zienswijze kunnen toepassen, waarom zou ik moten in binden jij kan toch ook inbinden.
 
-het pad het pad is alles bepalend en daarmee ook de weg en de afleiding die er op het pad zich voordoen, hier valt veel voor te zeggen het is niet aan mij te oordelen hoe men zijn of haar leven wilt lijden en hoe deze ingedeeld dient te worden. 
+Een eerlijke gedachten is dat ik accepteer een meedoe aan een omgeving en de eer en naam hoogmis houden, maar nooit de mogelijkheid of kans krijg om dat te doen vanwege mijn achtergrond, ik zal altijd een bepaalde plaats in het systeem behouden, ongeacht mijn wensen of streven, trouwen, liefde na jagen, kinders grootbrengen.  Ik zal binnen het kaders van de geschetste realiteit, nooit voldoen. Het is een bijna als een kansloos kaartspel.
 
-De ruimte om het niet eens te zijn met gebruiken en gedragingen binnen onze maatschappij hoe onredelijk ook. zelf op momenten dat deze onredelijkheid gevoeld wordt door de omgeving die het gedrag vertoont zich er bewust van is. 
+Dit doet pijn, het is een last te dragen volgens die standaarden van de groep, ik voorkies niet het systeem en beluit niet meer mee toespelen. Mijn eigen wereld te bouwen. Zoals zij dat ook doen. En momenten te delen in ieder zijn eigen bubbels. Dat zou de oplossing zijn. Het pijnlijke is daarin dat ik nooit helemaal vrij onderdeel zal zijn. Wat ik ook hebt geaccepteerd. Aansluiting hoeft niet absoluut te zijn. Maar de pijn en strijd waarin je deze wereld moet opbouwen voelt niet nodig en op momenten oneerlijk. 
 
-het zijn lasten, het zijn zaken die men moet dragen voor de rest van de omgeving. jou last is prive het is er een niet van schaamte zo wordt benoemd. mijn moeder zou voor mij door het vuur gaan. dit geloof ik. ze tracht de confentionele gebruiken en wetten van haar cultuur voorbij te schuiven voor het bestaan en de liefde voor haar kinderen net als die van vele ouders op hun eigen maniet doen en hebben gedaan.  
+Je zult het niet goed kunnen doen, je zult nooit kunnen winnen, terwijl winnen niet het doel op zich is. Het meedoen wordt onmogelijk gemaakt, het maakt je een passieve bijstander en uiteindelijk wordt je persoon klein gehouden. Je wordt een bepaalde kant op gedrukt. Het meespelen en acteren binnen de groep kan alleen als je het over maakt. Iedereen is vrij om te bepalen welk offer dit zal zijn. En hoever je hierin wilt gaan. Ik voorkies niet mee te buigen, in eerste instantie lijkt het of de buiging van kleine waarde is. In het plaatje binnen het grootte geheel lijkt het mee te vallen. 
 
-het punt is dat ze deze wetten en regels deelt en er een midden weg vindt. tot het moment daar is om eenn besslissing te maken. 
+Maar psychologisch, doet het veel met een mens, het raak je in de kern, het voelen en het geven om je geliefde en daarvoor schaamte dan wel miskenning ondervinden botst in tegen natuurlijke waarde die binnen de gemeenschap worden geopperd. Het is bijna een hypocriet spel van acceptatie onder voorbehoud. Voldoe aan een verwachting die je onmogelijk kunt waarmaken. 
+Het lijkt of dit alles een pleidooi is tegen de gemeenschap, maar dat is het niet. Ik erken de gemeenschap en al haar streven, ik streef niet naar een verandering van het systeem. Alleen de erkenning van mijn rechten binnen mijn directe en indirecte wereld. 
 
-De viering van familiewaarde staat hoog in het vaandeel, binnnen de conservatieve waarde, deze familiewaarde worden gekend door specefieke waarde en normen. 
+Het uitspreken van de pijn die ik voel door duidelijk in te zien wat het gevolg is van beide standpunten met elkaar botsen en er geen beweging in lijkt te voortkomen. Ik teken hier niet voor en voorzie op een bepaald moment een brui in de relatie zoals ik ooit dacht dat die kon zijn. Maar de gedragingen van de groep doen ogenschijnlijk al de haren overheid staan op momenten dat ik mij openlijk en vrij uitspreek over het thema gender dan wel seksualiteit. 
+Nieuwe informatie is dit niet, maar een uiting van dit geheel en de gevolgen die dit heeft met mijn banden is treurig voor mijzelf maar ook voor de familie. 
 
-de waarde dat iedereen binnnen de familie  een rol heeft en onderdeel is van de groep dan wel gemeenschap. dat deze ondanks haar tekortkomingen volgends de richtijnen van de interpertatie van de islam onmiskenbaar onderdeel vormt van de gemeenschap. ongetwijfeld tot een bepaalde hoogte en orde. daarbij is deze niet anders dan andere sociale structuren in onze maatschapij. 
+Mijn moeder wil gespaard worden voor de zondes van haar zoon, ik zal nooit inbinden op de manier waarop ze dat willen, ik zal daardoor een ander bestaan hebben in de familie maar ook ik in haar leven.
+Kan jij je inhouden en respect tonen. Het inhouden is niet een blijk van respect, het klein maken in naam van de groep. Hoort op zich zelf geen respect af te dwingen. Seksualiteit anders dan de norm van de groep is niet iets waar ik mij klein voor zou moeten maken of iets wat er niet zou mogen zijn. Dit is een fundamentele denkfout. En het schaadt mijn interactie met mijzelf en de buiten wereld. Al lijkt het nobel dat ik er niet naar gevraagd wordt en ik het daarom ook niet hoef te benoemen, dat bespaart volgens de gedachten van de groep mijzelf en de omgeving. 
 
-ik ben daar niet blind voor, maar moet wel erkennen dat deze deken van samenhoorigheid een is die aan voorwaarde zal voldoen. 
+Maar de enige die gespaard wordt is degene die de opvatting deelt dat homoseksualiteit of iedere andere seksualiteit buiten de heteroseksuele de norm is, ik word hier niet mee gespaard, ik word de schaamte en zonde in de schoenen geworpen. Al zal dat nooit de expliciete bedoeling zijn. Toch gebeurt het.
 
-redelijker wijs zijn we geneigd ons aan te passen aan redelijke verzoeken en wensen om zo de ballans in tact te houden om een middenweg te vinden. dit alles om de familie waarde en samenhoorigheid binnen de groep in stand te houden.  het is een nobel en eervol doel. het grote geheel instand te willen houden. het vraagt iets van een persoon dit offer te brengen om willen van het grote geheel. 
-
-Op welk moment besluit je voor de warmte vna de groep te kiezen en op welke momenten bepaal je waar deze op houdt.
-
-Het agresief behandeld worden omdat je een stetment maakt omwillen van je gedragingen, waarvan je de waters test, het testen geeft een duidelijk beeld van wat je kunt verwachten, het nooit volledig geacepteerd zullen worden rond je sexualiteit. wetend dat het iets is waar je geen controle over hebt.
-
-hoe durf ik met mijn handje te profeoceren en daarmee de groep uit te dagen in haar opvattingen, bind je in. jou gedragingen geven de groep aanstoot. jou politieke en cuturele uitignen vromen een gevaar de weg die wij willen behadelen. De onschuld is niet te vinden in het tarten met wat is mannelijk dan wel wat vrouwlijk is, wat is sexualiteit. wie is god wat zijn haar gebruiken? 
-
-Een makkelijk pleidooi zou kunnen zijn, maak het offer, het is maar een klein deel van wie je in weze bent, het zit iets dieper. 
-men beweegt zich voort in de geragingen en verhoudingen tot de ander, tot zijn opgebouwde familie , vrienden en kennissen. het aan gaan van een realtie op ieder vlak vraagt felxibilitiet en acceptatie. Op momenten dat je een 
-
-deze punten zijn chliche matig waar, we zijn geneidg om in een semantishce discussie te eindigen. Maar daar waar de handschoen wringt is in het opbouwen en bestaan van de persoon. de normen en waarde die gelden binnne de cultuur zullen nooit voor jou gelden. De regeles zoals geintwrperteerd zijn duidelijk. 
-
-Er is geen plaats voor jou sexualitiet in het geheel zoals jij wenst deze tot uiting te willen brengen. Het voelt bijna domgmatishc aan, je zou deze redenering naruurlijk ook op mijn zienswijze kunnen toepassen, waarom zou ik moetn in binnden jij kan toch ook inbinden.
-
-een eerlijke gedachten is dat ik accepteer een meedoe aan een omgeving en de eer en naam hoogwil houden, maar nooit de mogelijlheid of kans krijg om dat te doen vanwege mijn achtergrond, ik zal altijd een bepaalde plaats in het systeem behouden, oncheacht mijn wensen of streven, trouwen, liefde na jagen, kinder grootbrengen.  ik zal binnen het kaders van de geschetste realiteit, nooit voldoen. het is een bijna als een kansloos kaartspel.
-
-dit doet pijn, het is een last te dragen volgens die standaarden van de groep, ik voorkies niet het systeem en beluit niet meer mee tespelen. mijn eigen wereld te bouwen. zoals zij dat ook doen. en momenten te delen in ieder zijn eigen bubbles. dat zou de oplossing zijn. het pijnlijke is daarin dat ik nooit helemaal vrij onderdeel zal zijn. wat ik ook hebt geacepteerd. aansluiting hoeft niet absoluut te zijn. maar de pijn en strijd waarin je deze werld moet opbouwen voelt niet nodig en op momenten oneerlijk. 
-
-je zult het niet goed kunnen doen, je zult nooit kunnen winnnen, terwijl winnen niet het doel op zich is. het meedoen word onmogelijk gmaakt, het maakt je een pasieve bijstander en uitendelijk wordt je persoon klein gehouden. je wordt een bepaalde kant op gedrukt. het meespelen en acteren binnen de groep kan alleen als je het over maakt. iedereen is vrij om te bepalen welk offer dit zal zijn. en hoever je hier in wilt gaan. Ik voorkies niet mee te buigen, in eerste instantie lijkt het of de buiging van kleine waarde is. in het plaatje binnen het groote geheel lijkt het mee te vallen. 
-
-maar psygelogisch, doet het veel met een mens, het raak je in de kern, het voelen en het geven om je geliefde en daarvoor schaamte dan wel miskenning ondervinden botst in tegen natuurlijke waarde die binnen de gemeemnschap worden geopperd. Het is bijna een hipocriet spel van acceptatie ondervoorbehoud. voldoe aan een verwachting die je onmogelijk kunt waarmaken. 
-
-het lijkt of dit alles een pleidooi is tegen de gemeenschap, maar dat is het niet. ik erken de gemeesnchap en al haar streven, ik streef niet naar een verandering van het systeem. alleen de erkening van mijn rechten binnnen mijn directe en indirecte wereld. 
-
-Het uitspreken van de pijn die ik voel door duidelijk in te zien wat het gevolg is van beide standpunten met elkaar botsen en er geen beweging in lijkt te voortkomen. Ik teken hier niet voor en voorzie op een bepaald moment een bruik in de relatie zoals ik ooit dacht dat die kon zijn. Maar de gedragingen van de groep doen oogeschijnlijk al de haren overheid staan op momenten dat ik mij openlijk en vrij uitspreek over het thema gender dan wel sexualiteit. 
-
-nieuwe informatie is dit niet, maar een uiting van dit geheel en de gevolgen die dit heeft met mijn banden is treurig voormijzelf maar ook voor de familie. 
-
-Mijn moeder wilt gespaard worden voor de zondes van haar zoon, ik zal nooit inbinnden op de manier waarom ze dat willen, ik zal daardoor een ander bestaan hebben in de familie maar ook ik in haar leven.
-
-Kan jij je inhouden en respect tonen. het inhouden is niet een blijk van respect, mij zelf klein maken voor de groep. hoort geen respect af te dwingen. Sexualiteit is niet iets waar ik mij klein voor zou moeten maken of iets wat er niet zou mogen zijn. dit is een fundamentele denk fout. en het schaad mijn interactie met mijzelf en de buiten wereld. al lijkt het nobel dat ik er niet naar gevraagd wordt en ik het daarom ook niet hoef te benoemen, dat bespaard mijzelf en de omgeving. 
-
-maar de enige die gespaard wordt is degene die de opvatting deelt dat homosexualitiet of iedere andere sexualiteit buiten de hetrosexuele de norm zou zijn, ik word hier niet mee gespraard, ik word de schaamte en zonde in de schoenen gewordpen. Al zal dat nooit de explicite bedoeling zijn. Toch geberud het.  
-
-Daarnaast wordt er ook een dubble moraal geehanteerd, de normen en waarde die hoog in het vaandeel worden gehouden zijn niet aan mij besteed. Hij zal in dit opzicht nooit voldoen.
-
-Waarom maak jij je geaardheid zogroot binnen de groep, ik maak deze niet groot, ik erken deze, erkening is al al een kwalijke daad. 
-
-wat iets waar geen ruimte voor bestaat, is bij voorbaar al de uiting hoe groot of klein of te veel. 
-
-Het ervaren en voelen van deze misstanden is in de wereld een gegeven, maar die van je ouder niet krijgen is pijnlijk en heeft gevolgen voor de relatie onderling of ik dat wil of niet. de vraag is hoe hier mee om te gaan? 
+Daarnaast wordt er ook een dubbel moraal gehanteerd, de normen en waarde die hoog in het vaandeel worden gehouden zijn ook van mij van kracht, gezien ik onderdeel van de familie, echter alleen onder de hetronormative voorwaarde. Hij zal in dit opzicht nooit voldoen.
+Waarom maak jij je geaardheid zo groot binnen de groep, in werkelijkheid maak ik deze niet groot, ik erken deze, erkenning zelf is al een kwalijke daad. 
+Iets waar geen ruimte voor bestaat, is bij voorbaat al de uiting hoe groot of klein of te veel. 
+Het ervaren en voelen van deze misstanden is in de wereld een gegeven, maar die van je ouder niet krijgen is pijnlijk en heeft gevolgen voor de relatie onderling of ik dat wil of niet. De vraag is hoe hier mee om te gaan?
