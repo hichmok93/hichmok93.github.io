@@ -3,7 +3,7 @@ title: A Mother's Lunch.
 date: 2024-09-12 15:21:56 +/-0001
 categories: Mens
 tags: LHBTIQ+     # TAG names should always be lowercase
-published: yes
+published: no
 description: "Redelijkerwijs zijn we als mens geneigd ons aan te passen aan verzoeken en wensen te schikken om willen van de groep, Het is een nobel en eervol doel. Het vraagt iets van specefieke persoon. In welke mate in het verzoek redelijk en wanneer is dit waanzin?"
 media_subpath: /assets/img/
 image:
