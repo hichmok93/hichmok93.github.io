@@ -4,12 +4,12 @@ date: 2024-09-12 15:21:56 +/-0001
 categories: Mens
 tags: LHBTIQ+     # TAG names should always be lowercase
 published: yes
+description: ""
 media_subpath: /assets/img/
 image:
   path: "1233.jpg"
   alt: "Madre, amigo, hermano y luz alumbrando"
 ---
-
 <!-- De gedragingen van je ouders vinden een weg terug naar jezelf. Zonder dat je het door hebt wordt er een rookgordijn opgehangen die je jaren met je meedraagt. Je kunt dit gordijn in een zowel een positief als negatief context plaatsen, wij mensen zijn geneigd te denken en te voelen in rond negatieve emoties, Voor deze emoties doen zich op en je men vindt een manier hier passend mee om te gaan. Oftewel coping. 
 
 Wat is het coping van mijn ouders en wat is die van mijzelf, er ontstaat een barrière waarbij je een richting wordt opgestuurd, zelfs op momenten waarbij je zelf een andere keuze zou willen maken. 
@@ -32,12 +32,10 @@ Het punt is dat ze deze wetten en regels veelal deelt en er voor haarzelf een mi
 
 De viering van familiewaarde staat hoog in het vaandel, binnen de conservatieve waarde, deze familiewaarde worden gekend door specifieke waarde en normen. 
 De waarde dat iedereen binnen de familie een rol heeft en onderdeel is van de groep dan wel gemeenschap. Dat deze ondanks haar tekortkomingen volgends de richtlijnen van de interpretatie van de islam onmiskenbaar onderdeel vormt van de gemeenschap. Ongetwijfeld tot een bepaalde hoogte en orde. Daarbij is deze niet anders dan andere sociale structuren in onze maatschappij. 
-Ik ben daar niet blind voor, maar moet wel erkennen dat deze deken van samenhorigheid een is die aan voorwaarde zal voldoen. 
-Redelijkerwijs zijn we geneigd ons aan te passen aan redelijke verzoeken en wensen om zo de balans intact te houden om een middenweg te vinden. Dit alles om de familiewaarde en samenhorigheid binnen de groep in stand te houden.  Het is een nobel en eervol doel. Het grote geheel instant te willen houden. Het vraagt iets van een persoon dit offer te brengen om willen van het grote geheel. 
+Ik ben daar niet blind voor, maar moet wel erkennen dat deze deken van samenhorigheid een is die aan voorwaarde zal voldoen.
 
-Op welk moment besluit je voor de warmte van de groep te kiezen en op welke momenten bepaal je waar deze op houdt.
-Het agressief behandeld worden omdat je een stemmend maakt omwille van je gedragingen, waarvan je de waters test, het testen geeft een duidelijk beeld van wat je kunt verwachten, het nooit volledig geaccepteerd zullen worden rond je seksualiteit. Wetend dat het iets is waar je geen controle over hebt.
-Hoe durf ik met mijn handje te proefvoeren en daarmee de groep uit te dagen in haar opvattingen, bind je in. Jouw gedragingen geven de groep aanstoot. Jou politieke en culturele uitingen vromen een gevaar voor de weg die wij willen bewandelen. De onschuld is niet te vinden in het tarten met is mannelijk dan wel wat vrouwelijk is, wat is seksualiteit. Wie is god wat zijn haar gebruiken? 
+Redelijkerwijs zijn we geneigd ons aan te passen aan redelijke verzoeken en wensen om zo de balans intact te houden om een middenweg te vinden. Dit alles om de familiewaarde en samenhorigheid binnen de groep in stand te houden.  Het is een nobel en eervol doel. Het grote geheel instant te willen houden. Het vraagt iets van een persoon dit offer te brengen om willen van het grote geheel. 
+Jouw gedragingen geven de groep aanstoot. Jou politieke en culturele uitingen vromen een gevaar voor de weg die wij willen bewandelen. De onschuld is niet te vinden in het tarten met is mannelijk dan wel wat vrouwelijk is, wat is seksualiteit. Wie is god wat zijn haar gebruiken? 
 
 Een makkelijk pleidooi zou kunnen zijn, maak het offer, het is maar een klein deel van wie je in wezel bent, het zit iets dieper. 
 Men beweegt zich voort in de gedragingen en verhoudingen tot de ander, tot zijn opgebouwde familie, vrienden en kennissen. Het aangaan van een relatie op ieder vlak vraagt flexibiliteit en acceptatie.
@@ -58,11 +56,11 @@ Het lijkt of dit alles een pleidooi is tegen de gemeenschap, maar dat is het nie
 Het uitspreken van de pijn die ik voel door duidelijk in te zien wat het gevolg is van beide standpunten met elkaar botsen en er geen beweging in lijkt te voortkomen. Ik teken hier niet voor en voorzie op een bepaald moment een brui in de relatie zoals ik ooit dacht dat die kon zijn. Maar de gedragingen van de groep doen ogenschijnlijk al de jaren overheid staan op momenten dat ik mij openlijk en vrij uitspreek over het thema gender dan wel seksualiteit. 
 Nieuwe informatie is dit niet, maar een uiting van dit geheel en de gevolgen die dit heeft met mijn banden is treurig voor mijzelf maar ook voor de familie op de lange termijn. 
 
-Mijn moeder wil gespaard worden voor de zondes van haar zoon, ik zal niet kunnnen inbinden op de manier waarop ze dat hoopt, ik zal daardoor een ander bestaan hebben in de familie. Dat is niks nieuws deze rol had ik al geaccpeteerd bij de eerste tegenslag die een familie cultuur als de mijne heeft moeten doorlopen, buiten de eigen cultuur trouwen en met die kinderen dealen. 
+Mijn moeder wil gespaard worden voor de zondes van haar zoon, ik zal niet kunnnen inbinden op de manier waarop ze dat hoopt, ik zal daardoor een ander bestaan hebben in de familie. Dat is niks nieuws deze rol buiten de eigen cultuur trouwen wordt door vele all gezien als een misstap. Het instand houden van de confentionele normen en waarde is opzichzelf de norm, het introdueren van mogelijke verschillen in het fundamenten van de gemeenschap kunnen alleen maar voor meer problemen zorgen. 
 
 Nee Maar dat dat ook in haar leven zo zal zijn had ik nog niet gedacht tot voorkort.Kan jij je inhouden en respect tonen. Het inhouden is niet een blijk van respect, het klein maken in naam van de groep. Seksualiteit anders dan de norm van de groep is niet iets waar ik mij klein voor zou moeten maken of iets wat er niet zou mogen zijn volgens mijn visie en kijk op de wereld.
 
-En het schaadt mijn interactie met mijzelf en de buiten wereld. Al lijkt het nobel dat ik er niet naar gevraagd wordt door de gemeenschap en ik het daarom ook niet hoef te benoemen, dat bespaart volgens de gedachten van de groep mijzelf en de omgeving. 
+En het schaadt mijn interactie met mijzelf en de buitenwereld. Al lijkt het nobel dat ik er niet naar gevraagd wordt door de gemeenschap en ik het daarom ook niet hoef te benoemen, dat bespaart volgens de gedachten van de groep mijzelf en de omgeving. 
 Maar de enige die gespaard wordt is degene die de opvatting deelt dat homoseksualiteit of iedere andere seksualiteit buiten de heteroseksuele de norm is, ik word hier niet mee gespaard, ik word de schaamte en zonde in de schoenen geworpen. Al zal dat nooit de expliciete bedoeling zijn. Toch gebeurt het.
 
 Daarnaast wordt er ook een dubbel moraal gehanteerd, de normen en waarde die hoog in het vaandeel worden gehouden zijn ook van mij van kracht, gezien ik onderdeel van de familie, echter alleen onder de hetronormative voorwaarde. Hij zal in dit opzicht nooit voldoen.
