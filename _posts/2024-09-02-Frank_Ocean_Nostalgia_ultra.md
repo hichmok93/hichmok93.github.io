@@ -34,7 +34,7 @@ image:
     border-collapse: collapse;
   }
   th, td {
-    padding: 10px;
+    padding: 1px;
     text-align: left;
     border: 1px none #6e6e6e;
   }
