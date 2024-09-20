@@ -30,9 +30,9 @@ image:
 <table>
   <thead>
     <tr>
-      <th>nr</th>
-      <th>Name</th>
-      <th></th>
+      <th>Nr.</th>
+      <th>Song</th>
+      <th>Audio</th>
     </tr>
   </thead>
   <tbody>
