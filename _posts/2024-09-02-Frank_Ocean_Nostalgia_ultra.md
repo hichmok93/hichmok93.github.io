@@ -28,6 +28,27 @@ image:
 
 # _Nostalgia Ultra - Album by Frank Ocean_ 
 
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px none #6e6e6e;
+  }
+  th {
+    background-color: ##606060;
+  }
+  @media (max-width: 600px) {
+    th, td {
+      display: block;
+      width: 100%;
+    }
+  }
+</style>
+
 <table>
   <thead>
     <tr>
