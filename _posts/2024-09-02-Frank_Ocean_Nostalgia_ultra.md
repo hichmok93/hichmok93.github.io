@@ -11,8 +11,27 @@ image:
     alt: "Nostalgia Ultra - Album by Frank Ocean"
 ---
 # Nostalgia Ultra - Album by Frank Ocean
+_______________________________________
+
+<a href="/assets/music/frank_ocean/frank_ocean_nostalgiaultra.zip" download>
+  <button style="background-color: #ffa500;
+                 border: none;
+                 color: white;
+                 padding: 15px 32px;
+                 text-align: center;
+                 text-decoration: none;
+                 display: inline-block;
+                 font-size: 25px;
+                 margin: 4px 2px;
+                 cursor: pointer;">
+    Download Album
+  </button> 
+</a>
+
+____________________________________
+
 <h5>01 - Street Fighter</h5>
-<audio controls src="/assets/music/01_street_fighter.mp3" title="Street Fighter"></audio>
+<audio controls src="/assets/music/frank_ocean/01_street_fighter.mp3" title="Street Fighter"></audio>
 <h5>02 - Strawberry Swing</h5>
 <audio controls src="/assets/music/frank_ocean/02 strawberry swing.mp3" title="Strawberry Swing"></audio>
 <h5>03 - Novacane</h5>
@@ -38,5 +57,30 @@ image:
 <h5>13 - Nature Feels</h5>
 <audio controls src="/assets/music/frank_ocean/14 nature feels.mp3" title="Nature Feels"></audio>
 
+______________________________
+
+<a href="/assets/music/frank_ocean/frank_ocean_nostalgiaultra.zip" download>
+  <button style="background-color: #ffa500;
+                 border: none;
+                 color: white;
+                 padding: 15px 60px;
+                 text-align: center;
+                 text-decoration: none;
+                 display: inline-block;
+                 font-size: 16px;
+                 border-radius: 500px;
+                 font-weight: bold;
+                 letter-spacing: 1px;
+                 margin: 4px 2px;
+                 cursor: pointer;
+                 transition: background-color 1.3s ease;">
+    Download Album
+  </button>
+</a>
+
+______________________________________
+
 # Nostalgia Ultra - Album by Frank Ocean
 <iframe style="border-radius:20px" src="https://open.spotify.com/embed/album/182D7nDZqcYghZKQxnSJ03?utm_source=generator&theme=0" width="100%" height="900" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
