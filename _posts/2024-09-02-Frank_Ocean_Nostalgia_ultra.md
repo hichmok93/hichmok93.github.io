@@ -37,12 +37,6 @@ image:
 <audio controls src="/assets/music/frank_ocean/13 soul calibur.mp3" title="Soul Calibur"></audio>
 <h5>13 - Nature Feels</h5>
 <audio controls src="/assets/music/frank_ocean/14 nature feels.mp3" title="Nature Feels"></audio>
-...............
-
-{% include embed/audio.html src="/assets/music/frank_ocean/02 strawberry swing.mp3" types="mp3" title="Strawberry Swing" %}
-{% include embed/audio.html src="/assets/music/frank_ocean/03 novacane.mp3" types="mp3" title="Novacane" %}
 
 # Nostalgia Ultra - Album by Frank Ocean
 <iframe style="border-radius:20px" src="https://open.spotify.com/embed/album/182D7nDZqcYghZKQxnSJ03?utm_source=generator&theme=0" width="100%" height="900" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-...............
