@@ -11,7 +11,6 @@ image:
     alt: "Nostalgia Ultra - Album by Frank Ocean"
 ---
 
-# Nostalgia Ultra - Album by Frank Ocean
 <a href="/assets/music/frank_ocean/frank_ocean_nostalgiaultra.zip" download>
   <button style="background-color: #ffa500;
                  border: none;
@@ -27,12 +26,14 @@ image:
   </button> 
 </a>
 
+# _Nostalgia Ultra - Album by Frank Ocean_ 
+
 <table>
   <thead>
     <tr>
-      <th>Nr.</th>
-      <th>Song</th>
-      <th>Audio</th>
+      <th></th>
+      <th></th>
+      <th></th>
     </tr>
   </thead>
   <tbody>
@@ -122,3 +123,6 @@ image:
     Download Album
   </button> 
 </a>
+
+    "I let go of my claim on you, it's a free world."
+        — Frank Ocean, Blond
