@@ -35,7 +35,7 @@ image:
   }
   th, td {
     padding: 1px;
-    text-align: left;
+    text-align: center;
     border: 1px none #6e6e6e;
   }
   th {
@@ -59,47 +59,47 @@ image:
   </thead>
   <tbody>
     <tr>
-      <td>01.</td>
+      <td>1.</td>
       <td>Street Fighter</td>
       <td><audio controls src="/assets/music/frank_ocean/01_street_fighter.mp3" title="Street Fighter"></audio></td>
     </tr>
     <tr>
-      <td>02.</td>
+      <td>2.</td>
       <td>Strawberry Swing</td>
       <td><audio controls src="/assets/music/frank_ocean/02 strawberry swing.mp3" title="Strawberry Swing"></audio></td>
     </tr>
     <tr>
-      <td>03.</td>
+      <td>3.</td>
       <td>Novacane</td>
       <td><audio controls src="/assets/music/frank_ocean/03 novacane.mp3" title="Novacane"></audio></td>
     </tr>
     <tr>
-      <td>04.</td>
+      <td>4.</td>
       <td>Bitches Talkin'</td>
       <td><audio controls src="/assets/music/frank_ocean/05_bitches_talkin'.mp3" title="Bitches Talkin'"></audio></td>
     </tr>
     <tr>
-      <td>05.</td>
+      <td>5.</td>
       <td>Songs for Women</td>
       <td><audio controls src="/assets/music/frank_ocean/06 songs for women.mp3" title="Songs for Women"></audio></td>
     </tr>
     <tr>
-      <td>06.</td>
+      <td>6.</td>
       <td>Lovecrimes</td>
       <td><audio controls src="/assets/music/frank_ocean/07 lovecrimes.mp3" title="Lovecrimes"></audio></td>
     </tr>
     <tr>
-      <td>07.</td>
+      <td>7.</td>
       <td>Goldeneye</td>
       <td><audio controls src="/assets/music/frank_ocean/08 goldeneye.mp3" title="Goldeneye"></audio></td>
     </tr>
     <tr>
-      <td>08.</td>
+      <td>8.</td>
       <td>There Will Be Tears</td>
       <td><audio controls src="/assets/music/frank_ocean/09 there will be tears.mp3" title="There Will Be Tears"></audio></td>
     </tr>
     <tr>
-      <td>09.</td>
+      <td>9.</td>
       <td>Swim Good</td>
       <td><audio controls src="/assets/music/frank_ocean/10 swim good.mp3" title="Swim Good"></audio></td>
     </tr>
@@ -147,6 +147,3 @@ image:
 
     "I'll let go of my claim on you, it's a free world..."
         — Frank Ocean, Blond
-
-
-

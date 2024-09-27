@@ -2,81 +2,68 @@
 layout: compress
 ---
 
-<!doctype html>
+<body>
+    <!-- De content van je pagina -->
+    {{ content }}
 
-{% include origin-type.html %}
+    <!-- Voeg de vertaal-knop toe net voor het afsluiten van body -->
+    <button class="translate-button" onclick="translatePage()">Translate this page</button>
 
-{% include lang.html %}
+    <script>
+        function translatePage() {
+            const currentUrl = window.location.href;  // De huidige pagina URL
+            const targetLanguage = 'nl';  // Doeltaal (bijv. 'nl' voor Nederlands)
 
-{% if site.theme_mode %}
-  {% capture prefer_mode %}data-mode="{{ site.theme_mode }}"{% endcapture %}
-{% endif %}
+            // Google Translate URL met de huidige pagina en doeltaal
+            const translateUrl = `https://translate.google.com/translate?hl=&sl=auto&tl=${targetLanguage}&u=${encodeURIComponent(currentUrl)}`;
 
-<!-- `site.alt_lang` can specify a language different from the UI -->
-<html lang="{{ page.lang | default: site.alt_lang | default: site.lang }}" {{ prefer_mode }}>
-  {% include head.html %}
+            // Open de vertaalde pagina in een nieuw tabblad
+            window.open(translateUrl, '_blank');
+        }
+    </script>
 
-  <body>
-    {% include sidebar.html lang=lang %}
+    <style>
+        .translate-button {
+            padding: 10px 20px;
+            background-color: #4285f4;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
 
-    <div id="main-wrapper" class="d-flex justify-content-center">
-      <div class="container d-flex flex-column px-xxl-5">
-        {% include topbar.html lang=lang %}
+        .translate-button:hover {
+            background-color: #357ae8;
+        }
+    </style>
+<button class="translate-button" onclick="translatePage()">Translate this page</button>
 
-        <div class="row flex-grow-1">
-          <main aria-label="Main Content" class="col-12 col-lg-11 col-xl-9 px-md-4">
-            {% if layout.refactor or layout.layout == 'default' %}
-              {% include refactor-content.html content=content lang=lang %}
-            {% else %}
-              {{ content }}
-            {% endif %}
-          </main>
+<script>
+    function translatePage() {
+        const currentUrl = window.location.href;
+        const targetLanguage = 'nl';
+        const translateUrl = `https://translate.google.com/translate?hl=&sl=auto&tl=${targetLanguage}&u=${encodeURIComponent(currentUrl)}`;
+        window.open(translateUrl, '_blank');
+    }
+</script>
 
-          <!-- panel -->
-          <aside aria-label="Panel" id="panel-wrapper" class="col-xl-3 ps-2 mb-5 text-muted">
-            <div class="access">
-              {% include_cached update-list.html lang=lang %}
-              {% include_cached trending-tags.html lang=lang %}
-            </div>
+<style>
+    .translate-button {
+        padding: 10px 20px;
+        background-color: #4285f4;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+    }
 
-            {% for _include in layout.panel_includes %}
-              {% assign _include_path = _include | append: '.html' %}
-              {% include {{ _include_path }} lang=lang %}
-            {% endfor %}
-          </aside>
-        </div>
+    .translate-button:hover {
+        background-color: #357ae8;
+    }
+</style>
 
-        <div class="row">
-          <!-- tail -->
-          <div id="tail-wrapper" class="col-12 col-lg-11 col-xl-9 px-md-4">
-            {% for _include in layout.tail_includes %}
-              {% assign _include_path = _include | append: '.html' %}
-              {% include {{ _include_path }} lang=lang %}
-            {% endfor %}
-
-            {% include_cached footer.html lang=lang %}
-          </div>
-        </div>
-
-        {% include_cached search-results.html lang=lang %}
-      </div>
-
-      <aside aria-label="Scroll to Top">
-        <button id="back-to-top" type="button" class="btn btn-lg btn-box-shadow">
-          <i class="fas fa-angle-up"></i>
-        </button>
-      </aside>
-    </div>
-
-    <div id="mask"></div>
-
-    {% if site.pwa.enabled %}
-      {% include_cached notification.html lang=lang %}
-    {% endif %}
-
-    <!-- JavaScripts -->
-    {% include js-selector.html lang=lang %}
-
-    {% include_cached search-loader.html lang=lang %}
-  </body>
+</body>
 </html>
+
