@@ -67,3 +67,73 @@ layout: compress
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <!-- Voeg hier je andere head-elementen toe -->
+    <link rel="stylesheet" href="{{ site.webfonts }}">
+</head>
+<body>
+    <header>
+        <!-- Je headerinhoud -->
+    </header>
+
+    <main>
+        {{ content }}
+    </main>
+
+    <footer>
+        <!-- Je footerinhoud -->
+    </footer>
+
+    <!-- Voeg hier je scripts toe -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const form = document.getElementById('booking-form');
+            form.addEventListener('submit', function(event) {
+                event.preventDefault();
+
+                const formData = new FormData(form);
+                const data = {};
+                formData.forEach((value, key) => data[key] = value);
+
+                fetch('/', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+                    body: new URLSearchParams(data)
+                })
+                .then(response => {
+                    window.location.href = "/thank-you/";
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('Er is een fout opgetreden bij het indienen van het formulier.');
+                });
+            });
+        });
+    </script>
+
+    <style>
+        /* Voeg hier je CSS-stijlen toe of link naar een stylesheet */
+        .translate-button {
+            padding: 10px 20px;
+            background-color: #4285f4;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        .translate-button:hover {
+            background-color: #357ae8;
+        }
+    </style>
+</body>
+</html>
+
+
