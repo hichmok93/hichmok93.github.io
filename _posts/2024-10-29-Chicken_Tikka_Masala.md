@@ -13,7 +13,7 @@ image:
 
 # Homemade Chicken Tikka Masala 
 
-Een fijn gerecht voor gedurende de regenachtige herfst dagen. Heerlijk als klassieke gerecht met kip en verse rotie. maar ook een heerlijke optie om deze te vervangen met halumi witte rijst. Voor gezond en vegatarisch alternatief.
+Een fijn gerecht voor gedurende de regenachtige herfst dagen. Heerlijk als klassieke gerecht met kip en verse rotie. maar ook een heerlijke optie om deze te vervangen met halumi en witte rijst als gezond en vegatarisch alternatief.
 
 ## _Voorbereiding (Marinade)_
 
