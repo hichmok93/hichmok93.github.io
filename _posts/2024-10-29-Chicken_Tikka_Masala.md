@@ -82,7 +82,7 @@ Benodigde ingrediënten voor marinade:
 
 ## _Serveren_
 
-11. Serveren: Garneer het gerecht met de korianderblaadjes en serveer het met rijst of paratha’s.
+11. Serveren: Garneer het gerecht met de korianderblaadjes en serveer het met rijst of paratha’s. Voor een frisse twist kun je een lepel yoghurt aan het gerecht toevoegen.  
 
 Eet smakelijk x 
 
