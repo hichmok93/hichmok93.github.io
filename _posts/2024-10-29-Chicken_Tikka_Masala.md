@@ -1,24 +1,39 @@
-Hier is het recept voor Chicken Tikka Masala, stapsgewijs en met nadruk op de ingrediënten die je per stap gebruikt:
+---
+title: Recept - Chicken Tikka Masala
+date: 2024-10-29 20:50:00 +0800
+categories: [koken, gerechten]
+tags: [recept, indiaans, food]    # TAG names should always be lowercase
+description: Een klassiek Indiaans gerecht Chicken Tikka Masala. Snel en gemakkelijk te bereiden ook heerlijk als vegetarische gerecht met halumi. 
+media_subpath: /assets/img/
+image:
+  path: ""
+  alt: "Homemade Chicken Tikka Masala "
+---
 
-Voorbereiding (Marinade)
+
+#Homemade Chicken Tikka Masala 
+
+Een fijn gerecht voor gedurende de regenachtige herfst dagen. Heerlijk als klassieke gerecht met kip en verse rotie. maar ook een heerlijke optie om deze te vervangen met halumi witte rijst. Voor gezond en vegatarisch alternatief.
+
+##Voorbereiding (Marinade)
 
 Benodigde ingrediënten voor marinade:
 
-1 afgestreken tl gemalen kruidnagel
+* 1 afgestreken tl gemalen kruidnagel
 
-1 afgestreken tl gemalen komijn
+* 1 afgestreken tl gemalen komijn
 
-2 tl van elk: zoet gerookt paprikapoeder en garam masala
+* 2 tl van elk: zoet gerookt paprikapoeder en garam masala
 
-3 citroenen
+- 3 citroenen
 
-6 tenen knoflook
+- 6 tenen knoflook
 
-1 stuk gemberwortel ter grootte van een duim
+- 1 stuk gemberwortel ter grootte van een duim
 
-6 volle el yoghurt
+- 6 volle el yoghurt
 
-800 g kipfilets
+- 800 g kipfilets
 
 
 1. Specerijen roosteren: Voeg de kruidnagel, komijn, paprikapoeder en garam masala samen in een droge, kleine koekenpan. Rooster 1 minuut op middelhoog vuur om de smaak vrij te laten komen.
@@ -34,7 +49,7 @@ Benodigde ingrediënten voor marinade:
 
 
 
-Saus
+##Saus
 
 Benodigde ingrediënten voor de saus:
 
@@ -74,7 +89,7 @@ Olijfolie
 
 
 
-Kip bereiden
+##Kip bereiden
 
 9. Kip roosteren: Besprenkel de gemarineerde kip licht met olie. Rooster de kip op een hete barbecue of grillpan totdat de buitenkant mooi goudbruin is en krokant. Snijd de kip daarna in kleinere stukjes.
 
@@ -83,7 +98,7 @@ Kip bereiden
 
 
 
-Serveren
+##Serveren
 
 11. Serveren: Garneer het gerecht met de korianderblaadjes en serveer het met rijst of paratha’s.
 
