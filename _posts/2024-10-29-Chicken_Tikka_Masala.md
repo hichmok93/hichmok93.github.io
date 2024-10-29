@@ -73,8 +73,6 @@ Benodigde ingrediënten voor marinade:
 | 1 blokje              | Kippenbouillon                    |
 | 2 blikken (400 g elk) | Kokosmelk light                   |
 
-
-
 ## _Kip bereiden_
 
 9. **Kip roosteren**: Besprenkel de gemarineerde kip licht met olie. Rooster de kip op een hete barbecue of grillpan totdat de buitenkant mooi goudbruin is. 
