@@ -11,11 +11,11 @@ image:
 ---
 
 
-#Homemade Chicken Tikka Masala 
+# Homemade Chicken Tikka Masala 
 
 Een fijn gerecht voor gedurende de regenachtige herfst dagen. Heerlijk als klassieke gerecht met kip en verse rotie. maar ook een heerlijke optie om deze te vervangen met halumi witte rijst. Voor gezond en vegatarisch alternatief.
 
-##Voorbereiding (Marinade)
+## _Voorbereiding (Marinade)_
 
 Benodigde ingrediënten voor marinade:
 
@@ -49,7 +49,7 @@ Benodigde ingrediënten voor marinade:
 
 
 
-##Saus
+## _Saus_
 
 Benodigde ingrediënten voor de saus:
 
@@ -89,7 +89,7 @@ Olijfolie
 
 
 
-##Kip bereiden
+## _Kip bereiden_
 
 9. Kip roosteren: Besprenkel de gemarineerde kip licht met olie. Rooster de kip op een hete barbecue of grillpan totdat de buitenkant mooi goudbruin is en krokant. Snijd de kip daarna in kleinere stukjes.
 
@@ -98,9 +98,11 @@ Olijfolie
 
 
 
-##Serveren
+## _Serveren_
 
 11. Serveren: Garneer het gerecht met de korianderblaadjes en serveer het met rijst of paratha’s.
+
+Eet smakelijk x 
 
 
 
