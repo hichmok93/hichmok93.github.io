@@ -14,7 +14,7 @@ image:
 
 Een fijn gerecht klassiek gerecht voor gedurende de regenachtige herfst dagen. Heerlijk met kip en verse rotie. Maar ook moogelijk om deze te vervangen met Halumi en witte rijst als gezond en vegatarisch alternatief.
 
-![Desktop View](ctm.jpg){: w="350" h="200" }{: .right }{: .shadow } 
+![Desktop View](cmtw.jpg){: w="350" h="200" }{: .right }{: .shadow } 
 
 ## _Voorbereiding (Marinade)_
 
