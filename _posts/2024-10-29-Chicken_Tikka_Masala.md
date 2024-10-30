@@ -7,10 +7,10 @@ description: Een klassiek Indiaans gerecht Chicken Tikka Masala. Snel en gemakke
 media_subpath: /assets/img/
 image:
   path: "https://www.thespicehouse.com/cdn/shop/articles/Chicken_Tikka_Masala_1200x1200.jpg?v=1606845941"
-  alt: "Homemade Chicken Tikka Masala "
+  alt: "Homemade:Chicken Tikka Masala "
 ---
 
-# Homemade Chicken Tikka Masala 
+# Homemade: Chicken Tikka Masala 
 
 Een klassiek gerecht voor de regenachtige herfstdagen. Heerlijk met zelf gemarineerde kip en verse rotie. Eventueel te vervangen met halloumi en rijst soort naar keuze als gezond en vegatarisch alternatief.
 
@@ -98,6 +98,10 @@ _Chef's tip: Laat het marineren van de kip een avond in de koelkast staan voor e
       Voor een frisse twist kun je een lepel yoghurt tijdens het serveren aan het gerecht toevoegen. 
       Eet smakelijk x
 
+Inspiratie van het recept afkomstig uit het boek: **Jamie's comfort food**
+_lekker genieten met familie en vrienden_
+
+Link:https://www.bol.com/nl/nl/p/jamie-s-comfort-food/9200000030602674/
 
 ##### Timelaps: Chicken Tikka Masala.
 
