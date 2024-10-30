@@ -67,9 +67,9 @@ Nadat je de kip heb gemarineerd en in de koelkast heb geplaatst is het tijd om d
 
 ---
 
-5. **Snijden en voorbereiden**: Snijd de **uien** en **knoflook** fijn. Snijd ook de **Spaanse pepers fijn** (naar smaak, afhankelijk van de gewenste pittigheid). Verwijder de steeltjes van de **koriander** en bewaar de blaadjes voor later.
-
 ![Desktop View](https://cdn.webshopapp.com/shops/265166/files/440227668/1000x1000x1/image.jpg){: w="400" h="250" }{: .right }{: .shadow } 
+
+5. **Snijden en voorbereiden**: Snijd de **uien** en **knoflook** fijn. Snijd ook de **Spaanse pepers fijn** (naar smaak, afhankelijk van de gewenste pittigheid). Verwijder de steeltjes van de **koriander** en bewaar de blaadjes voor later.
 
 6. **Uien en knoflook bakken**: Verhit een scheutje olijfolie in een grote braadpan op matig-hoog vuur. Voeg de **uien**, **knoflook**, **Spaanse pepers** en **koriandersteeltjes** toe en bak deze 20 minuten zachtjes totdat ze goudbruin zijn.
 
