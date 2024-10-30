@@ -93,8 +93,7 @@ Nadat je de kip heb gemarineerd en in de koelkast heb geplaatst is het tijd om d
 11. Serveren: Garneer het gerecht met de korianderblaadjes en serveer deze met rijst of paratha’s. 
 
 > Chef's Tip: 
-      Voor een frisse twist kun je een lepel yoghurt tijdens het serveren aan het gerecht toevoegen. 
-      Eet smakelijk x
+      Voor een frisse twist kun je een lepel yoghurt tijdens het serveren toevoegen aan het gerecht. 
 {: .prompt-tip }
 
 
@@ -104,5 +103,5 @@ Nadat je de kip heb gemarineerd en in de koelkast heb geplaatst is het tijd om d
 
 Inspiratie voor dit recept komt uit het boek: <a href="https://www.bol.com/nl/nl/p/jamie-s-comfort-food/9200000030602674/" target="_blank">Jamie's Comfort Food</a> door Jamie Oliver.
 
-
+ ❤️ Eet smakelijk chicos ❤️  
 
