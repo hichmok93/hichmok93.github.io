@@ -1,6 +1,6 @@
 ---
 title: Ghanese Pindastoof
-date: 2024-10-30 21:50:00 +0800
+date: 2024-10-30 16:50:00 +0800
 categories: [koken, gerechten]
 tags: [recept, Ghana, food]    # TAG names should always be lowercase
 description: Een ghanees gerecht pindastoof Snel en gemakkelijk te bereiden. 
