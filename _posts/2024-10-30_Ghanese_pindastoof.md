@@ -6,7 +6,7 @@ tags: [recept, Ghana, food]    # TAG names should always be lowercase
 description: Een ghanees gerecht pindastoof Snel en gemakkelijk te bereiden. 
 media_subpath: /assets/img/
 image:
-  path: ""
+  path: "https://www.foodiesmagazine.nl/app/uploads/2020/10/Pindastoof-met-kip.jpeg"
   alt: "Ghanese Pindastoof "
 ---
 
