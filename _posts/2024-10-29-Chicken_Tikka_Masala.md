@@ -21,6 +21,7 @@ Een klassiek gerecht voor de regenachtige herfstdagen. Heerlijk met gemarineerde
 
 ![Desktop View](cmtw.jpg){: w="350" h="200" }{: .right }{: .shadow } 
 
+
 ### _Ingrediënten voor de marinade:_
 
 | Hoeveelheid             | Ingrediënt                       |
