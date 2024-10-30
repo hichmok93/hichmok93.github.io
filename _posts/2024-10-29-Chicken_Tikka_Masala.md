@@ -3,7 +3,7 @@ title: Recept - Chicken Tikka Masala
 date: 2024-10-29 20:50:00 +0800
 categories: [koken, gerechten]
 tags: [recept, indiaans, food]    # TAG names should always be lowercase
-description: Een klassiek Indiaans gerecht Chicken Tikka Masala. Snel en gemakkelijk te bereiden. Ook heerlijk als vegetarische gerecht met halumi en rijst. 
+description: Een klassiek Indiaans gerecht Chicken Tikka Masala. Snel en gemakkelijk te bereiden. Ook heerlijk als vegetarische gerecht met halloumi en rijst. 
 media_subpath: /assets/img/
 image:
   path: "https://www.thespicehouse.com/cdn/shop/articles/Chicken_Tikka_Masala_1200x1200.jpg?v=1606845941"
@@ -12,14 +12,14 @@ image:
 
 # Homemade: Chicken Tikka Masala 
 
-Een klassiek gerecht voor de regenachtige herfstdagen. Heerlijk met zelf gemarineerde kip en verse rotie. Eventueel te vervangen met halloumi en rijst soort naar keuze als gezond en vegatarisch alternatief.
-
-![Desktop View](cmtw.jpg){: w="350" h="200" }{: .right }{: .shadow } 
-
+Een klassiek gerecht voor de regenachtige herfstdagen. Heerlijk met gemarineerde kip en verse rotie. Eventueel te vervangen met halloumi en rijstsoort naar keuze als gezond en vegatarisch alternatief.
 
 ## _Kip Marinade_
 
-_Chef's tip: Laat het marineren van de kip een avond in de koelkast staan voor een rijkere smaak_
+> _Chef's tip: Laat het marineren van de kip een avond in de koelkast staan voor een rijkere smaak_
+{: .prompt-tip }
+
+![Desktop View](cmtw.jpg){: w="350" h="200" }{: .right }{: .shadow } 
 
 ### _Ingrediënten voor de marinade:_
 
@@ -92,19 +92,17 @@ _Chef's tip: Laat het marineren van de kip een avond in de koelkast staan voor e
 
 11. Serveren: Garneer het gerecht met de korianderblaadjes en serveer deze met rijst of paratha’s. 
 
---- 
-
-      Chef's Tip: 
+> Chef's Tip: 
       Voor een frisse twist kun je een lepel yoghurt tijdens het serveren aan het gerecht toevoegen. 
       Eet smakelijk x
+{: .prompt-tip }
 
-Inspiratie van het recept afkomstig uit het boek: **Jamie's comfort food**
-_lekker genieten met familie en vrienden_
-
-Link:https://www.bol.com/nl/nl/p/jamie-s-comfort-food/9200000030602674/
 
 ##### Timelaps: Chicken Tikka Masala.
 
 {% include embed/youtube.html id='y0cRguKeK40' %}
+
+Inspiratie voor dit recept komt uit het boek: <a href="https://www.bol.com/nl/nl/p/jamie-s-comfort-food/9200000030602674/" target="_blank">Jamie's Comfort Food</a> door Jamie Oliver.
+
 
 
