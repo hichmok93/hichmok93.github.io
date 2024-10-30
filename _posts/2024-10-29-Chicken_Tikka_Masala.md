@@ -59,6 +59,7 @@ Benodigde ingrediënten voor marinade:
 
 ![Desktop View](https://cdn.webshopapp.com/shops/265166/files/440227668/1000x1000x1/image.jpg){: w="400" h="200" }{: .right }{: .shadow } 
 
+
 | Hoeveelheid           | Ingrediënt                        |
 |-----------------------|-----------------------------------|
 | 2                     | Uien                              |
