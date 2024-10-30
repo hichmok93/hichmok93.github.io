@@ -31,6 +31,7 @@ Een klassiek gerecht voor de regenachtige herfstdagen. Heerlijk met gemarineerde
 | 6 volle el              | Yoghurt                          |
 | 800 g                   | Kipfilets                        |
 
+---
 
 1. **Specerijen roosteren**: Voeg de **kruidnagel**, **komijn**, **paprikapoeder** en **garam masala** samen in een droge, kleine koekenpan. Rooster 1 minuut op middelhoog vuur om de smaak vrij te laten komen.
 
@@ -63,6 +64,8 @@ Nadat je de kip heb gemarineerd en in de koelkast heb geplaatst is het tijd om d
 | 2 blikken (400 g elk) | Gepelde tomaten                   |
 | 1 blokje              | Kippenbouillon                    |
 | 2 blikken (400 g elk) | Kokosmelk light                   |
+
+---
 
 5. **Snijden en voorbereiden**: Snijd de **uien** en **knoflook** fijn. Snijd ook de **Spaanse pepers fijn** (naar smaak, afhankelijk van de gewenste pittigheid). Verwijder de steeltjes van de **koriander** en bewaar de blaadjes voor later.
 
