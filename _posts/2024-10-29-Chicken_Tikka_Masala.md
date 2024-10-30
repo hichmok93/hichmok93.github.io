@@ -7,7 +7,7 @@ description: Een klassiek Indiaans gerecht Chicken Tikka Masala. Snel en gemakke
 media_subpath: /assets/img/
 image:
   path: "https://www.thespicehouse.com/cdn/shop/articles/Chicken_Tikka_Masala_1200x1200.jpg?v=1606845941"
-  alt: "Homemade:Chicken Tikka Masala "
+  alt: "Homemade: Chicken Tikka Masala"
 ---
 
 # Homemade: Chicken Tikka Masala 
