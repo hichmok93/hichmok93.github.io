@@ -10,14 +10,6 @@ image:
   alt: "Homemade:Chicken Tikka Masala "
 ---
 
-<div id="google_translate_element"></div>
-<script type="text/javascript">
-    function googleTranslateElementInit() {
-        new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
-    }
-</script>
-<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
 # Homemade: Chicken Tikka Masala 
 
 Een klassiek gerecht voor de regenachtige herfstdagen. Heerlijk met zelf gemarineerde kip en verse rotie. Eventueel te vervangen met halloumi en rijst soort naar keuze als gezond en vegatarisch alternatief.
