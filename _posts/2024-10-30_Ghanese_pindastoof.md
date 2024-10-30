@@ -74,3 +74,5 @@ calories: 382 per portie
 ---
 
 **Tip**: Dit gerecht is geïnspireerd door de originele Ghanese keuken, een authentiek comfortfood-recept dat ik ooit leerde van een lokale chef en dat een diepe betekenis heeft. Probeer het zeker eens!
+
+Inspiratie voor dit recept komt uit het boek: <a href="https://www.bol.com/nl/nl/p/jamie-s-comfort-food/9200000030602674/" target="_blank">Jamie's Comfort Food</a> door Jamie Oliver.
