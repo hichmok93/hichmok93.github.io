@@ -48,6 +48,7 @@ Benodigde ingrediënten voor marinade:
 
 5. **Snijden en voorbereiden**: Snijd de **uien** en **knoflook** fijn. Snijd ook de **Spaanse pepers fijn** (naar smaak, afhankelijk van de gewenste pittigheid). Verwijder de steeltjes van de **koriander** en bewaar de blaadjes voor later.
 
+![Desktop View](https://cdn.webshopapp.com/shops/265166/files/440227668/1000x1000x1/image.jpg){: w="300" h="250" }{: .right }{: .shadow } 
 
 6. **Uien en knoflook bakken**: Verhit een scheutje olijfolie in een grote braadpan op matig-hoog vuur. Voeg de **uien**, **knoflook**, **Spaanse pepers** en **koriandersteeltjes** toe en bak deze 20 minuten zachtjes totdat ze goudbruin zijn.
 
@@ -56,8 +57,6 @@ Benodigde ingrediënten voor marinade:
 
 
 8. **Kokosmelk en bouillon toevoegen**: Verkruimel het **bouillonblokje** en voeg 300 ml kokend water toe. Laat 5 minuten pruttelen en roer dan de **kokosmelk** erdoor. Laat de saus 20 minuten zachtjes pruttelen en breng op smaak met zout.
-
-![Desktop View](https://cdn.webshopapp.com/shops/265166/files/440227668/1000x1000x1/image.jpg){: w="400" h="200" }{: .right }{: .shadow } 
 
 
 | Hoeveelheid           | Ingrediënt                        |
