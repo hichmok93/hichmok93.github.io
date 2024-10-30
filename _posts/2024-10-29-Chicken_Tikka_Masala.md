@@ -19,7 +19,7 @@ Een klassiek gerecht voor de regenachtige herfstdagen. Heerlijk met gemarineerde
 > _Chef's tip: Laat het marineren van de kip een avond in de koelkast staan voor een rijkere smaak_
 {: .prompt-tip }
 
-![Desktop View](cmtw.jpg){: w="350" h="200" }{: .right }{: .shadow } 
+![Desktop View](cmtw.jpg){: w="400" h="200" }{: .right }{: .shadow } 
 
 
 ### _Ingrediënten voor de marinade:_
