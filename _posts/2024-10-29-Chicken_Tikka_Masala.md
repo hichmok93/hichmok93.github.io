@@ -34,22 +34,19 @@ Een klassiek gerecht voor de regenachtige herfstdagen. Heerlijk met gemarineerde
 
 1. **Specerijen roosteren**: Voeg de **kruidnagel**, **komijn**, **paprikapoeder** en **garam masala** samen in een droge, kleine koekenpan. Rooster 1 minuut op middelhoog vuur om de smaak vrij te laten komen.
 
+![Desktop View](cmtw.jpg){: w="200" h="100" }{: .right }{: .shadow } 
 
 2. **Marinade bereiden**: Doe de geroosterde specerijen in een kom. Voeg de rasp van **1 citroen**, het sap van 1 citroen, geraspte **knoflook** en geraspte **gember** toe.
 
-![Desktop View](cmtw.jpg){: w="200" h="100" }{: .right }{: .shadow } 
-
 3. **Kip marineren**: Snijd de **kipfilets** in stukken van ongeveer 5 cm. Voeg deze toe aan de marinade en roer goed. Voeg dan de **yoghurt** toe en roer opnieuw.
 
-
 4. **Marineren**: Dek de kom af en laat de kip minstens 2 uur marineren in de koelkast of gedurende de nacht.
-
 
 ---
 
 ## _Tikka Masala Saus_
 
-Nadat je de kip heb gemarineerd en in de koelkast heb geplaatst is het tijd om de saus te bereiden. gebruik hiervoor een diepe pan of gietijzeren pan. 
+Nadat je de kip heb gemarineerd en in de koelkast heb geplaatst is het tijd om de saus te bereiden. Gebruik hiervoor een diepe (gietijzeren) pan. 
 
 ### _Ingrediënten voor de Tika Masala Saus:_
 
