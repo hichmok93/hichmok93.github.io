@@ -12,13 +12,16 @@ image:
 
 # Homemade Chicken Tikka Masala 
 
-Een fijn klassiek gerecht voor gedurende de regenachtige herfstdagen. Heerlijk met kip en verse rotie. Maar ook moogelijk om te vervangen met Halumi en witte rijst als gezond en vegatarisch alternatief.
+Een klassiek gerecht voor de regenachtige herfstdagen. Heerlijk met zelf gemarineerde kip en verse rotie. Eventueel te vervangen met halloumi en rijst soort naar keuze als gezond en vegatarisch alternatief.
 
 ![Desktop View](cmtw.jpg){: w="350" h="200" }{: .right }{: .shadow } 
 
-## _Marinade_
 
-Benodigde ingrediënten voor marinade:
+## _Kip Marinade_
+
+_Chef's tip: Laat het marineren van de kip een avond in de koelkast staan voor een rijkere smaak_
+
+### _Ingrediënten voor de marinade:_
 
 | Hoeveelheid             | Ingrediënt                       |
 |-------------------------|----------------------------------|
@@ -44,7 +47,9 @@ Benodigde ingrediënten voor marinade:
 
 4. **Marineren**: Dek de kom af en laat de kip minstens 2 uur marineren in de koelkast of gedurende de nacht.
 
-## _Saus_
+---
+
+## _Tikka Masala Saus_
 
 5. **Snijden en voorbereiden**: Snijd de **uien** en **knoflook** fijn. Snijd ook de **Spaanse pepers fijn** (naar smaak, afhankelijk van de gewenste pittigheid). Verwijder de steeltjes van de **koriander** en bewaar de blaadjes voor later.
 
@@ -56,8 +61,9 @@ Benodigde ingrediënten voor marinade:
 7. **Specerijen en tomaten toevoegen**: Voeg de gemalen **koriander**, **kurkuma**, **paprikapoeder** en **garam masala** toe en bak 2 minuten mee. Voeg daarna de gepelde tomaten in de pan.
 
 
-8. **Kokosmelk en bouillon toevoegen**: Verkruimel het **bouillonblokje** en voeg 300 ml kokend water toe. Laat 5 minuten pruttelen en roer dan de **kokosmelk** erdoor. Laat de saus 20 minuten zachtjes pruttelen en breng op smaak met zout.
+8. **Kokosmelk en bouillon toevoegen**: Verkruimel het **bouillonblokje** en voeg 300 ml kokend water toe. Laat 5 minuten pruttelen en roer dan de **kokosmelk** erdoor. Laat de saus 20 minuten zachtjes pruttelen en breng op smaak met zout. gebruik een blender om de structuur van de saus te bepalen.
 
+### _Ingrediënten voor de Tika Masala Saus:_
 
 | Hoeveelheid           | Ingrediënt                        |
 |-----------------------|-----------------------------------|
@@ -73,6 +79,8 @@ Benodigde ingrediënten voor marinade:
 | 1 blokje              | Kippenbouillon                    |
 | 2 blikken (400 g elk) | Kokosmelk light                   |
 
+---
+
 ## _Kip bereiden_
 
 9. **Kip roosteren**: Besprenkel de gemarineerde kip licht met olie. Rooster de kip op een hete barbecue of grillpan totdat de buitenkant mooi goudbruin is. 
@@ -82,10 +90,15 @@ Benodigde ingrediënten voor marinade:
 
 ## _Serveren_
 
-11. Serveren: Garneer het gerecht met de korianderblaadjes en serveer het met rijst of paratha’s. Voor een frisse twist kun je een lepel yoghurt aan het gerecht toevoegen.  
+11. Serveren: Garneer het gerecht met de korianderblaadjes en serveer deze met rijst of paratha’s. 
 
-Eet smakelijk x 
+--- 
 
-Achter de schermen van het gerecht: Chicken Tikka Masala.
+      Chef's Tip: 
+      Voor een frisse twist kun je een lepel yoghurt tijdens het serveren aan het gerecht toevoegen. 
+      Eet smakelijk x
+
+
+##### Timelaps: Chicken Tikka Masala.
 
 {% include embed/youtube.html id='y0cRguKeK40' %}
