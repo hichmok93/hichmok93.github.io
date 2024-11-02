@@ -74,7 +74,7 @@ Nadat je de kip heb gemarineerd en in de koelkast heb geplaatst is het tijd om d
 6. **Uien en knoflook bakken**: Verhit een scheutje olijfolie in een grote braadpan op matig-hoog vuur. Voeg de **uien**, **knoflook**, **Spaanse pepers** en **koriandersteeltjes** toe en bak deze 20 minuten zachtjes totdat ze goudbruin zijn.
 
 
-7. **Specerijen en tomaten toevoegen**: Voeg de gemalen **koriander**, **kurkuma**, **paprikapoeder** en **garam masala** toe en bak 2 minuten mee. Voeg daarna de gepelde tomaten in de pan.
+7. **Specerijen en tomaten toevoegen**: Voeg de gemalen **koriander**, **kurkuma**, **paprikapoeder** en **garam masala** toe, 2 minuten daarna de ** gemalen amandelen** en rooster die. Voeg daarna de gepelde tomaten in de pan.
 
 
 8. **Kokosmelk en bouillon toevoegen**: Verkruimel het **bouillonblokje** en voeg 300 ml kokend water toe. Laat 5 minuten pruttelen en roer dan de **kokosmelk** erdoor. Laat de saus 20 minuten zachtjes pruttelen en breng op smaak met zout. gebruik een blender om de structuur van de saus te bepalen.
