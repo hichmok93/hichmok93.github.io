@@ -27,7 +27,7 @@ De strijd om de beste hamburger begint bizarre vormen aan te nemen. Sommige burg
 1. Vraag de slager om 800 g halslappen door de gehaktmolen te halen. of bij de appie uit het koelvak **(magere) rundergehakt**. Verdeel het gehakt in 4 gelijke porties en draai er lichtjes balletjes van, met een diameter van ongeveer 12 cm.
 2. Snijd de **rode ui** in plakjes en doe ze in een kom met **wittewijnazijn** en een snufje **zeezout**. Laat de uien 30 minuten marineren.
 3. Snijd de **augurken** in plakjes en maak de saus door alle ingrediënten te mengen.
-4. snij de groente in dikke plakken en grill de **courgette** en doop de **aubergine** in water voor 10 minuten, volgens deze in bloem te paneren om vervolgens kort te frituren tot goudkleurig zijn.
+4. snij de groente in dikke plakken en grill de **courgette** en doop de **aubergine** in water voor 10 minuten, als deze met bloem te paneren om vervolgens kort te frituren tot goud bruin. 
 
 ## Bakken
 
