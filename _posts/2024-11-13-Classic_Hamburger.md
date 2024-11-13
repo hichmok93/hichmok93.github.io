@@ -18,21 +18,22 @@ image:
 
 # Krankzinnige Burger
 
-De strijd om de beste hamburger begint bizarre vormen aan te nemen. Sommige burgers zijn echt voor fijnproevers, met bergen garnering erop, terwijl ik andere eerder als in vetvrij papier verpakte, dunne, saaie, slappe happen zou omschrijven. 
+De strijd om de beste hamburger begint bizarre vormen aan te nemen. Sommige burgers zijn echt voor fijnproevers, met bergen garnering erop, terwijl ik andere eerder als in vetvrij papier verpakte, dunne, saaie, slappe happen zou omschrijven. IK zou zeggen ga voor een gezond alternatief, vervang de spek met heerlijke groente zoals **Courgete & Aubergine**
 
 **Deze krankzinnige burger hoort thuis in de topklasse** - de bereidingswijze is bijna een ritueel om de perfecte hamburger mee te bereiken.
 
 # Bereidingswijze
 
-1. Vraag de slager om 800 g halslappen door de gehaktmolen te halen. Verdeel het gehakt in 4 gelijke porties en draai er lichtjes balletjes van, met een diameter van ongeveer 12 cm.
-2. Snijd de rode ui in plakjes en doe ze in een kom met wittewijnazijn en een snufje zeezout. Laat de uien 30 minuten marineren.
-3. Snijd de augurken in plakjes en maak de saus door alle ingrediënten te mengen.
+1. Vraag de slager om 800 g halslappen door de gehaktmolen te halen. of bij de appie uit het koelvak **(magere) rundergehakt**. Verdeel het gehakt in 4 gelijke porties en draai er lichtjes balletjes van, met een diameter van ongeveer 12 cm.
+2. Snijd de **rode ui** in plakjes en doe ze in een kom met **wittewijnazijn** en een snufje **zeezout**. Laat de uien 30 minuten marineren.
+3. Snijd de **augurken** in plakjes en maak de saus door alle ingrediënten te mengen.
+4. snij de groente in dikke plakken en grill de **courgette** en doop de **aubergine** in water voor 10 minuten, volgens deze in bloem te paneren om vervolgens kort te frituren tot goudkleurig zijn.
 
 ## Bakken
 
-1. Bak telkens 2 burgers in een grote koekenpan. Kruid ze met peper en zout. Voeg 2 burgers toe, keer ze na 1 minuut om en bestrijk met mosterd en een beetje Tabasco.
-2. Laat de burgers nog 1 minuut bakken en leg op elke burger een plakje kaas en een scheutje water.
-3. Rooster de broodjes en voeg de ketchup, saus en sla toe.
+1. Bak telkens 2 burgers in een grote koekenpan. Kruid ze met **peper en zout**. Voeg 2 burgers toe, keer ze na 1 minuut om en bestrijk met mosterd en een beetje **Tabasco**.
+2. Laat de burgers nog 1 minuut bakken en leg op elke burger een **plakje kaas** en een scheutje water.
+3. Rooster de broodjes en voeg de **ketchup**, **saus** en **sla** toe.
 
 # Ingrediënten
 
@@ -45,7 +46,7 @@ De strijd om de beste hamburger begint bizarre vormen aan te nemen. Sommige burg
 | Wittewijnazijn                     | scheutje    |
 | Augurken                           | 2 grote     |
 | Brioche burgerbroodjes             | 4           |
-| Gerookte bacon of champions        | 4 plakjes   |
+| spek of Groente: a.o.: courgette, Aubergine en of champions        | kleine portie   |
 | Amerikaanse mosterd                | 4 tl        |
 | Tabasco-chipotlesaus               | 1 tl        |
 | Red Leicester-kaas                 | 4 plakjes   |
@@ -64,7 +65,9 @@ De strijd om de beste hamburger begint bizarre vormen aan te nemen. Sommige burg
 
 ---
 
+Maak de burger op met de verschillende groente en sla gevolgd door de dressing. 
 Een heerlijke burgerervaring geïnspireerd door klassieke recepten!
+
 
 Inspiratie voor dit recept komt uit het boek: <a href="https://www.bol.com/nl/nl/p/jamie-s-comfort-food/9200000030602674/" target="_blank">Jamie's Comfort Food</a> door Jamie Oliver.
 
