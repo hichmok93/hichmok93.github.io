@@ -1,5 +1,5 @@
 ---
-title: Recept - Superschnitzel
+title: Recept - Superschnitzel 🐔 
 date: 2024-12-22 20:50:00 +0800
 categories: [koken, gerechten]
 tags: [recept, schnitzel, food]    # TAG names should always be lowercase
