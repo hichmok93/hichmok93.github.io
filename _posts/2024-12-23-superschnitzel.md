@@ -6,7 +6,7 @@ tags: [recept, schnitzel, food]    # TAG names should always be lowercase
 description: Een klassiek gerecht voor een heerlijke superschnitzel met aardappel- en appelsalade. Perfect voor een uitgebreide maaltijd.
 media_subpath: /assets/img/
 image:
-  path: "https://www.okokorecepten.nl/i/recepten/kookboeken/2014/jamies-comfort-food/jamie-oliver-superschnitzel-500.jpg"
+  path: "https://www.24kitchen.nl/files/styles/social_media_share/public/2020-10/KokenVoorEenWeek-Week4-Schnitzel-Landscape.jpg?itok=O8F7zES0"
   alt: "Heerlijke zelfgemaakte superschnitzel"
 ---
 
@@ -57,32 +57,34 @@ Een klassiek gerecht dat nooit uit de mode raakt. Met een knapperige korst, een 
 ## _Bereidingswijze_
 
 ### _Aardappelsalade bereiden:_
-1. Kook de **aardappels** in gezouten water gedurende 12-15 minuten.  
-2. Snijd ze in grove stukken en meng ze met **zure room**, **mosterd**, **bieslook** en het sap van een halve **citroen**.  
-3. Breng op smaak met peper en zout.  
+Kook de **aardappels** in gezouten water gedurende 12-15 minuten.  
+Snijd ze in grove stukken en meng ze met **zure room**, **mosterd**, **bieslook** en het sap van een halve **citroen**.  
+Breng op smaak met peper en zout.  
 
 ### _Schnitzel paneren:_
-4. Kluts de **eieren** en strooi **bloem** en **broodkruim** op aparte borden.  
-5. Haal de **schnitzels** achtereenvolgens door de **bloem**, de **eieren** en het **broodkruim**.  
-6. Bewaar ze in de koelkast.  
+Kluts de **eieren** en strooi **bloem** en **broodkruim** op aparte borden.
+Sla de lapjes vlees plat met een vleeshamer zodat deze mals worden of plet deze met twee laagjes plastic met een zware koekepan tot je diktes hebt van ongeveer 0.5 cm. 
+klop de eieren op in een diepe kom tot deze luchtig zijn.
+Haal de **schnitzels** achtereenvolgens door de **bloem**, de **eieren** en het **broodkruim**.  
+Bewaar ze in de koelkast.  
 
 ### _Salsa bereiden:_
-7. Hak de **sjalot**, **augurk**, **peterselie**, **kappertjes** en **ansjovis** fijn.  
-8. Meng alles goed door elkaar.  
+Hak de **sjalot**, **augurk**, **peterselie**, **kappertjes** en **ansjovis** fijn.  
+Meng alles goed door elkaar.  
 
 ### _Appelsalade bereiden:_
-9. Pers een halve **citroen** uit en meng met een scheutje **olijfolie**.  
-10. Snijd de **appels** in dunne plakjes en meng ze voorzichtig met de dressing.  
-11. Voeg de **waterkers** toe.  
+Pers een halve **citroen** uit en meng met een scheutje **olijfolie**.  
+Snijd de **appels** in dunne plakjes en meng ze voorzichtig met de dressing.  
+Voeg de **waterkers** toe.  
 
 ### _Schnitzel bakken:_
-12. Verhit **zonnebloemolie** in een koekenpan op matig-hoog vuur.  
-13. Bak de **schnitzels** goudbruin aan beide kanten.  
-14. Voeg **klontjes boter** toe en schep deze over de **schnitzels**.  
+Verhit **zonnebloemolie** in een koekenpan op matig-hoog vuur.  
+Bak de **schnitzels** goudbruin aan beide kanten.  
+Voeg **klontjes boter** toe en schep deze over de **schnitzels**.  
 
 ### _Serveren:_
-15. Serveer de **schnitzels** met de **aardappelsalade** en **appelsalade**.  
-16. Voeg eventueel een lepel **zwartebessenjam** of **bramenjam** toe.  
+Serveer de **schnitzels** met de **aardappelsalade** en **appelsalade**.  
+Voeg eventueel een lepel **zwartebessenjam** of **bramenjam** toe.  
 
 ---
 
