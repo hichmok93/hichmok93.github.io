@@ -11,4 +11,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 gem 'logger'
 group :test do
   gem "html-proofer", "~> 5.0"
+  gem 'jekyll-sass-converter', '~> 3.0.0'
 end
